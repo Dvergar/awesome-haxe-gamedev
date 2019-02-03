@@ -65,8 +65,6 @@ Library | Doc | Description
 
 
 # Networking
-Those are here mostly for study purpose as it hasn't been maintained for a while.
-
 Library | Doc | Description
 ------- |:---:| -----------
 [Anette](https://github.com/Dvergar/Anette) | Yes | Simple haxe network library (no UDP)
