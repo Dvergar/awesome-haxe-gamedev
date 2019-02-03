@@ -58,14 +58,10 @@ Library | Doc | Description
 
 
 # Game hosts API
-Those are here mostly for study purpose as it hasn't been maintained for a while.
-
 Library | Doc | Description
 ------- |:---:| -----------
-[hxGameJolt](https://github.com/Zielak/hxGameJolt) | No | Game Jolt API for Haxe users
-[kong.hx](https://github.com/djcsdy/kong.hx) | Yes | Strongly-typed access to the Kongregate API from Haxe.
 [SteamWrap](https://github.com/larsiusprime/SteamWrap) | Yes | Haxe native extension for the Steam API
-*haxe3 or unmaintained* &#x1F648; | _ |[extension-steamworks](https://github.com/HaxeExtension/extension-steamworks)
+*haxe3 or unmaintained* &#x1F648; | _ |[extension-steamworks](https://github.com/HaxeExtension/extension-steamworks), [kong.hx](https://github.com/djcsdy/kong.hx), [hxGameJolt](https://github.com/Zielak/hxGameJolt)
 
 
 # Networking
