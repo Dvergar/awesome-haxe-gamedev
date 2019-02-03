@@ -46,7 +46,7 @@ Library | Architecture | Doc | Description
 [awe6](https://github.com/hypersurge/awe6) | IoC, EC | yes | The inverted game framework, is a development tool focused on Future Proofing.
 [ecx](https://github.com/eliasku/ecx) | ECS | yes | ECX is Entity Component System framework for Haxe
 [OSIS](https://github.com/Dvergar/OSIS) | ECS | yes | Entity Component System architecture with networking support
-*haxe3 or unmaintained* &#x1F648;| | | [Ash-Haxe](https://github.com/nadako/Ash-HaXe), [IceEntity](https://github.com/NicoM1/IceEntity), [hxE](https://github.com/PDeveloper/hxE), [eskimo](https://github.com/PDeveloper/eskimo)
+*haxe3 or unmaintained* &#x1F648;| | | [Ash-Haxe](https://github.com/nadako/Ash-HaXe), [IceEntity](https://github.com/NicoM1/IceEntity), [hxE](https://github.com/PDeveloper/hxE), [eskimo](https://github.com/PDeveloper/eskimo), [edge](https://github.com/fponticelli/edge)
 
 
 # Serialization
@@ -96,6 +96,12 @@ _ | Heaps | Built-in parser for Tiled
 Pathfinding | [pathfinder](https://github.com/hypersurge/pathfinder) | easy A* (A Star / astar) pathfinding (Haxe)
 Tweening | [actuate](https://github.com/jgranick/actuate) | Actuate is a flexible, fast "tween" library
 Color manipulation | [nxColor](https://github.com/oscarcs/nxColor) | Haxe color manipulation library.
+Localization | [firetongue](https://github.com/larsiusprime/firetongue) | A translation/localization framework written in Haxe
 
-https://github.com/proletariatgames/HUGS  
-https://github.com/HaxeFlixel/flixel-ui  
+* https://github.com/proletariatgames/HUGS (haxe3)
+* https://github.com/unihx/unihx (haxe3)
+* https://github.com/HaxeFlixel/flixel-ui (haxe4)
+
+# To add
+
+* Particle emitters
