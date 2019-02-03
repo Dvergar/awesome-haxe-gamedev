@@ -45,6 +45,7 @@ Library | Architecture | Doc | Description
 --------| -------------|:---:| -----------
 [awe6](https://github.com/hypersurge/awe6) | IoC, EC | yes | The inverted game framework, is a development tool focused on Future Proofing.
 [ecx](https://github.com/eliasku/ecx) | ECS | yes | ECX is Entity Component System framework for Haxe
+[ghost](https://github.com/AustinEast/ghost) | ECS | no | ECS Game Framework built on top of Heaps
 [OSIS](https://github.com/Dvergar/OSIS) | ECS | yes | Entity Component System architecture with networking support
 *haxe3 or unmaintained* &#x1F648;| | | [Ash-Haxe](https://github.com/nadako/Ash-HaXe), [IceEntity](https://github.com/NicoM1/IceEntity), [hxE](https://github.com/PDeveloper/hxE), [eskimo](https://github.com/PDeveloper/eskimo), [edge](https://github.com/fponticelli/edge)
 
