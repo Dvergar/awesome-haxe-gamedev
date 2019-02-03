@@ -85,10 +85,13 @@ Game | Platform | Engine | Screenshot
 [rymdkapsel](https://rymdkapsel.com/) | Desktop, Mobile | OpenFl | |
 [Defender's Quest](http://www.defendersquest.com/) | Desktop | OpenFl | |
 [Evoland](http://evoland.shirogames.com/) | Desktop, Mobile | Heaps | |
-[Pocket Kingdom](https://store.steampowered.com/app/462620/Pocket_Kingdom/) | Desktop | | |
+[Pocket Kingdom](https://store.steampowered.com/app/462620/Pocket_Kingdom/) | Desktop | HaxePunk | |
 [The Westport Independent](http://www.doublezeroonezero.com/westport.html) | Desktop, Mobile | Luxe | |
 
-More showcase : https://www.openfl.org/showcase/
+More showcase :
+* https://www.openfl.org/showcase/
+* https://haxeflixel.com/showcase/
+* https://haxepunk.com/games/
 
 # Misc
 
