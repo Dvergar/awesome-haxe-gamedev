@@ -14,7 +14,7 @@ Engine | Target | Doc | Description
 [unreal.hx](https://github.com/proletariatgames/unreal.hx) | Web, Mobile, Desktop, Consoles | Yes | Unreal.hx: Haxe Integration for Unreal
 Smaller Engines | | |
 [Clay](https://github.com/clay2d/clay) | Web, Mobile, Desktop, Consoles | No | Clay is a cross-platform, 2d game framework.
-_ | _ | *haxe3 or unmaintained* &#x1F648; | [Gecko2D](https://github.com/Nazariglez/Gecko2D), [Flambe](https://github.com/aduros/flambe), [haxe-phaser3](https://github.com/sebbernery/haxe-phaser3), [HaxePunk](https://github.com/HaxePunk/HaxePunk), [Khapunk](https://bitbucket.org/stalei/khapunk), [luxe](https://github.com/underscorediscovery/luxe),
+*haxe3 or unmaintained* &#x1F648; | _ | _ | [Gecko2D](https://github.com/Nazariglez/Gecko2D), [Flambe](https://github.com/aduros/flambe), [haxe-phaser3](https://github.com/sebbernery/haxe-phaser3), [HaxePunk](https://github.com/HaxePunk/HaxePunk), [Khapunk](https://bitbucket.org/stalei/khapunk), [luxe](https://github.com/underscorediscovery/luxe),
 
 
 Low-level Engine | Target | Doc | Description
@@ -22,7 +22,7 @@ Low-level Engine | Target | Doc | Description
 [Kha](https://github.com/Kode/Kha) | Web, Mobile, Desktop, Console | Yes | Ultra-portable, high performance, open source multimedia framework.
 [Lime](https://github.com/openfl/lime) | Web, Mobile, Desktop | Yes | Lime is a flexible, lightweight layer for Haxe cross-platform developers
 [NME](https://github.com/haxenme/nme) | Web, Mobile, Desktop | No | A cross-platform native backend for Haxe projects
-_ | _ | *haxe3 or unmaintained* &#x1F648; | [snow](https://github.com/snowkit/snow),
+*haxe3 or unmaintained* &#x1F648; | _ | _ | [snow](https://github.com/snowkit/snow),
 
 
 
@@ -55,6 +55,7 @@ Library | Doc | Description
 
 # Game hosts API
 Those are here mostly for study purpose as it hasn't been maintained for a while.
+
 Library | Doc | Description
 ------- |:---:| -----------
 [kong.hx](https://github.com/djcsdy/kong.hx) | Yes | Strongly-typed access to the Kongregate API from Haxe.
