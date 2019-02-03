@@ -4,10 +4,10 @@ Those are haxe 4 compatible game engines.
 
 Engine | Target | Doc | Description
 -------| -------|:---:| -----------
-[Armory](https://github.com/armory3d/armory) | Web, Mobile, Desktop, Consoles | Yes | Armory is an open-source 3D game engine with full Blender integration
+[Armory (Kha)](https://github.com/armory3d/armory) | Web, Mobile, Desktop, Consoles | Yes | Armory is an open-source 3D game engine with full Blender integration
 [Away3d](https://github.com/openfl/away3d) | Web, Mobile, Desktop | Yes | An open source, real-time 3D engine for OpenFL
-[HaxeFlixel](https://github.com/HaxeFlixel/flixel) | Web, Mobile, Desktop | Yes | Free, cross-platform 2D game engine powered by Haxe and OpenFL
-[Haxegon](https://github.com/HaxeFlixel/flixel) | Web, Mobile, Desktop | Yes | A haxe programming library for beginners. Powered by OpenFL and Starling.
+[HaxeFlixel (OpenFl)](https://github.com/HaxeFlixel/flixel) | Web, Mobile, Desktop | Yes | Free, cross-platform 2D game engine powered by Haxe and OpenFL
+[Haxegon (OpenFl)](https://github.com/HaxeFlixel/flixel) | Web, Mobile, Desktop | Yes | A haxe programming library for beginners. Powered by OpenFL and Starling.
 [Heaps](https://github.com/HeapsIO/heaps) | Web, Mobile, Desktop, Consoles | Yes | High Performance Game Framework
 [OpenFl](https://github.com/openfl/openfl) | Web, Mobile, Desktop | Yes | Interactive game and app development library
 [Starling](https://github.com/openfl/starling) | Web, Mobile, Desktop | Yes | The "Cross-Platform Game Engine", a popular Stage3D framework
@@ -62,6 +62,17 @@ Library | Doc | Description
 [hxGameJolt](https://github.com/Zielak/hxGameJolt) | No | Game Jolt API for Haxe users
 
 
+# Networking
+Those are here mostly for study purpose as it hasn't been maintained for a while.
+
+Library | Doc | Description
+------- |:---:| -----------
+[Anette](https://github.com/Dvergar/Anette) | Yes | Simple haxe network library (no UDP)
+Built-in | Yes | Heaps, OpenFL (Haxeflixel & co), Kha (Armory)
+*haxe3 or unmaintained* &#x1F648; | _ |[hxnet](https://github.com/MattTuttle/hxnet), [linc_enet](https://github.com/snowkit/linc_enet)
+
+
+
 # Game releases
 Game | Platform | Engine | Screenshot
 -----|----------|--------|-----------
@@ -78,7 +89,7 @@ More showcase : https://www.openfl.org/showcase/
 
 # Misc
 
-https://github.com/snowkit/linc_enet  
+
 https://github.com/Dvergar/PyxelEdit-Map-Importer  
 https://github.com/hypersurge/pathfinder haxe4  
 https://github.com/proletariatgames/HUGS  
