@@ -1,3 +1,5 @@
+![Haxe Logo](haxe-logo.png)
+
 # Game engines
 
 Those are haxe 4 compatible game engines.
