@@ -14,7 +14,7 @@ Engine | Target | Doc | Description
 [OpenFl](https://github.com/openfl/openfl) | Web, Mobile, Desktop | Yes | Interactive game and app development library
 [Starling](https://github.com/openfl/starling) | Web, Mobile, Desktop | Yes | The "Cross-Platform Game Engine", a popular Stage3D framework
 [unreal.hx](https://github.com/proletariatgames/unreal.hx) | Web, Mobile, Desktop, Consoles | Yes | Unreal.hx: Haxe Integration for Unreal
-Smaller Engines | | |
+**Smaller Engines** | | |
 [Clay](https://github.com/clay2d/clay) | Web, Mobile, Desktop, Consoles | No | Clay is a cross-platform, 2d game framework.
 *haxe3 or unmaintained* &#x1F648; | _ | _ | [Gecko2D](https://github.com/Nazariglez/Gecko2D), [Flambe](https://github.com/aduros/flambe), [haxe-phaser3](https://github.com/sebbernery/haxe-phaser3), [HaxePunk](https://github.com/HaxePunk/HaxePunk), [Khapunk](https://bitbucket.org/stalei/khapunk), [luxe](https://github.com/underscorediscovery/luxe),
 
