@@ -16,6 +16,7 @@ Engine | Target | Doc | Description
 [unreal.hx](https://github.com/proletariatgames/unreal.hx) | Web, Mobile, Desktop, Consoles | Yes | Unreal.hx: Haxe Integration for Unreal
 **Smaller Engines** | | |
 [Clay](https://github.com/clay2d/clay) | Web, Mobile, Desktop, Consoles | No | Clay is a cross-platform, 2d game framework.
+[gm2d](https://github.com/nmehost/gm2d) | Web, Mobile, Desktop | No | A library for rapid game developement with Haxe, NME and Waxe.
 *haxe3 or unmaintained* &#x1F648; | _ | _ | [Gecko2D](https://github.com/Nazariglez/Gecko2D), [Flambe](https://github.com/aduros/flambe), [haxe-phaser3](https://github.com/sebbernery/haxe-phaser3), [HaxePunk](https://github.com/HaxePunk/HaxePunk), [Khapunk](https://bitbucket.org/stalei/khapunk), [luxe](https://github.com/underscorediscovery/luxe),
 
 
