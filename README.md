@@ -122,10 +122,11 @@ Map parser | [PyxelEdit Map Importer](https://github.com/Dvergar/PyxelEdit-Map-I
 _ | Heaps | Built-in parser for Tiled
 Pathfinding | [pathfinder](https://github.com/hypersurge/pathfinder) | easy A* (A Star / astar) pathfinding (Haxe)
 Tweening | [actuate](https://github.com/jgranick/actuate) | Actuate is a flexible, fast "tween" library
+UI | [domkit](https://github.com/ncannasse/domkit) | CSS Components based strictly typed UI framework for Haxe
+_ | [flixel-ui](https://github.com/HaxeFlixel/flixel-ui) | GUI library for HaxeFlixel
 
 * https://github.com/proletariatgames/HUGS (haxe3)
 * https://github.com/unihx/unihx (haxe3)
-* https://github.com/HaxeFlixel/flixel-ui (haxe4)
 
 # Articles
 * [Flash is dead, long live OpenFL!](http://gamasutra.com/blogs/LarsDoucet/20140318/213407/Flash_is_dead_long_live_OpenFL.php)
@@ -140,5 +141,4 @@ Tweening | [actuate](https://github.com/jgranick/actuate) | Actuate is a flexibl
 
 # Relevant things to sort and/or add
 
-* https://github.com/ncannasse/domkit
 * Particle emitters
