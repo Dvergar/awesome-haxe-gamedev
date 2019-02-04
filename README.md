@@ -9,6 +9,7 @@
 * [Networking](#networking)
 * [Game releases](#game-releases)
 * [Miscellaneous](#misc)
+* [Other haxe lists](#other-haxe-lists)
 
 # Game engines
 
@@ -117,6 +118,11 @@ Localization | [firetongue](https://github.com/larsiusprime/firetongue) | A tran
 * https://github.com/proletariatgames/HUGS (haxe3)
 * https://github.com/unihx/unihx (haxe3)
 * https://github.com/HaxeFlixel/flixel-ui (haxe4)
+
+# Other haxe lists
+* https://github.com/nadako/awesome-haxe
+* https://github.com/anissen/awesome-snowkit
+* https://github.com/MatthijsKamstra/awesome-haxe-js
 
 # To add
 
