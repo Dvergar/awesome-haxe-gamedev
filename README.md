@@ -9,6 +9,7 @@
 * [Networking](#networking)
 * [Game releases](#game-releases)
 * [Miscellaneous](#misc)
+* [Articles](#articles)
 * [Other haxe lists](#other-haxe-lists)
 
 # Game engines
@@ -90,13 +91,13 @@ Built-in | Yes | Heaps, OpenFL (Haxeflixel & co), Kha (Armory)
 # Game releases
 Game | Platform | Engine | Screenshot
 -----|----------|--------|-----------
-[Northgard](http://northgard.net/) | Desktop | Heaps | |
 [Dead Cells](https://dead-cells.com/) | Desktop, Consoles | Heaps | |
-[Papers, please](http://papersplea.se/) | Desktop, iOS, PsVita| | |
-[rymdkapsel](https://rymdkapsel.com/) | Desktop, Mobile | OpenFl | |
 [Defender's Quest](http://www.defendersquest.com/) | Desktop | OpenFl | |
 [Evoland](http://evoland.shirogames.com/) | Desktop, Mobile | Heaps | |
+[Northgard](http://northgard.net/) | Desktop | Heaps | |
+[Papers, please](http://papersplea.se/) | Desktop, iOS, PsVita| | |
 [Pocket Kingdom](https://store.steampowered.com/app/462620/Pocket_Kingdom/) | Desktop | HaxePunk | |
+[rymdkapsel](https://rymdkapsel.com/) | Desktop, Mobile | OpenFl | |
 [The Westport Independent](http://www.doublezeroonezero.com/westport.html) | Desktop, Mobile | Luxe | |
 
 More showcase :
@@ -122,7 +123,10 @@ Localization | [firetongue](https://github.com/larsiusprime/firetongue) | A tran
 * https://github.com/HaxeFlixel/flixel-ui (haxe4)
 
 # Articles
-* http://gamasutra.com/blogs/LarsDoucet/20140318/213407/Flash_is_dead_long_live_OpenFL.php
+* [Flash is dead, long live OpenFL!](http://gamasutra.com/blogs/LarsDoucet/20140318/213407/Flash_is_dead_long_live_OpenFL.php)
+* [Flash is gone, what now?](https://www.linkedin.com/pulse/flash-gone-what-now-matan-uberstein/)
+* [How I wrote my own 3D game engine and shipped a game with it in 20 months](https://kircode.com/post/how-i-wrote-my-own-3d-game-engine-and-shipped-a-game-with-it-in-20-months)
+* [Building 42 games within a year — Insane game development](https://medium.com/@mknol/building-42-games-within-a-year-insane-game-development-5340d506068f)
 
 # Other haxe lists
 * https://github.com/nadako/awesome-haxe
