@@ -1,5 +1,15 @@
 ![Haxe Logo](haxe-logo.png)
 
+# Table of contents
+* [Game Engines](#game-engines)
+* [Physics](#physics)
+* [Architectures](#architectures)
+* [Serialization](#serialization)
+* [Game hosts API](#game-hosts-API)
+* [Networking](#networking)
+* [Game releases](#game-releases)
+* [Miscellaneous](#misc)
+
 # Game engines
 
 Those are haxe 4 compatible game engines.
