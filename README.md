@@ -7,7 +7,7 @@
 * [Serialization](#serialization)
 * [Game hosts API](#game-hosts-API)
 * [Networking](#networking)
-* [Game releases](#game-releases)
+* [Games](#games)
 * [Miscellaneous](#misc)
 * [Articles](#articles)
 * [Other haxe lists](#other-haxe-lists)
@@ -88,17 +88,20 @@ Built-in | Yes | Heaps, OpenFL (Haxeflixel & co), Kha (Armory)
 *haxe3 or unmaintained* &#x1F648; | _ |[hxnet](https://github.com/MattTuttle/hxnet), [linc_enet](https://github.com/snowkit/linc_enet)
 
 
-# Game releases
+# Games
 Game | Platform | Engine | Screenshot
 -----|----------|--------|-----------
+**RELEASED** | | |
 [Dead Cells](https://dead-cells.com/) | Desktop, Consoles | Heaps | |
 [Defender's Quest](http://www.defendersquest.com/) | Desktop | OpenFl | |
 [Evoland](http://evoland.shirogames.com/) | Desktop, Mobile | Heaps | |
 [Northgard](http://northgard.net/) | Desktop | Heaps | |
 [Papers, please](http://papersplea.se/) | Desktop, iOS, PsVita| | |
-[Pocket Kingdom](https://store.steampowered.com/app/462620/Pocket_Kingdom/) | Desktop | HaxePunk | |
+[Pocket Kingdom](https://store.steampowered.com/app/462620/Pocket_Kingdom/) | Desktop | HaxePunk (OpenFl) | |
 [rymdkapsel](https://rymdkapsel.com/) | Desktop, Mobile | OpenFl | |
 [The Westport Independent](http://www.doublezeroonezero.com/westport.html) | Desktop, Mobile | Luxe | |
+**IN DEVELOPMENT** | | |
+[Dicey Dungeons](http://diceydungeons.com/) | Desktop | Haxegon (OpenFl)
 
 More showcase :
 * https://www.openfl.org/showcase/
@@ -133,6 +136,7 @@ Localization | [firetongue](https://github.com/larsiusprime/firetongue) | A tran
 * https://github.com/anissen/awesome-snowkit
 * https://github.com/MatthijsKamstra/awesome-haxe-js
 
-# To add
+# Relevant things to sort and/or add
 
+* https://github.com/ncannasse/domkit
 * Particle emitters
