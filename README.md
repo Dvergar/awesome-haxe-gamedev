@@ -64,7 +64,7 @@ Library | Doc | Description
 Library | Doc | Description
 ------- |:---:| -----------
 [SteamWrap](https://github.com/larsiusprime/SteamWrap) | Yes | Haxe native extension for the Steam API
-*haxe3 or unmaintained* &#x1F648; | _ |[extension-steamworks](https://github.com/HaxeExtension/extension-steamworks), [kong.hx](https://github.com/djcsdy/kong.hx), [hxGameJolt](https://github.com/Zielak/hxGameJolt)
+*haxe3 or unmaintained* &#x1F648; | _ |[extension-steamworks](https://github.com/HaxeExtension/extension-steamworks), [kong.hx](https://github.com/djcsdy/kong.hx), [hxGameJolt](https://github.com/Zielak/hxGameJolt), [GameJolt-API-Haxe-bindings](https://github.com/matrefeytontias/GameJolt-API-Haxe-bindings)
 
 
 # Networking
