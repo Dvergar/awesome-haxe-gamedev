@@ -125,9 +125,6 @@ Tweening | [actuate](https://github.com/jgranick/actuate) | Actuate is a flexibl
 UI | [domkit](https://github.com/ncannasse/domkit) | CSS Components based strictly typed UI framework for Haxe
 _ | [flixel-ui](https://github.com/HaxeFlixel/flixel-ui) | GUI library for HaxeFlixel
 
-* https://github.com/proletariatgames/HUGS (haxe3)
-* https://github.com/unihx/unihx (haxe3)
-
 # Articles
 * [Flash is dead, long live OpenFL!](http://gamasutra.com/blogs/LarsDoucet/20140318/213407/Flash_is_dead_long_live_OpenFL.php)
 * [Flash is gone, what now?](https://www.linkedin.com/pulse/flash-gone-what-now-matan-uberstein/)
@@ -142,3 +139,5 @@ _ | [flixel-ui](https://github.com/HaxeFlixel/flixel-ui) | GUI library for HaxeF
 # Relevant things to sort and/or add
 
 * Particle emitters
+* https://github.com/proletariatgames/HUGS (haxe3)
+* https://github.com/unihx/unihx (haxe3)
