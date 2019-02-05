@@ -124,6 +124,7 @@ More showcase :
 
 Type | Library | Description
 -----|---------|------------
+Animation | [spine-hx](https://github.com/jeremyfa/spine-hx) | Spine runtime for Haxe automatically converted from the official Java/libgdx runtime
 Color manipulation | [nxColor](https://github.com/oscarcs/nxColor) | Haxe color manipulation library.
 Collision | [differ](https://github.com/snowkit/differ) | A separation axis theorem collision library
 Procedural generation | [Dungeon builder](https://github.com/julsam/dungeon-builder) | Dungeon Builder is a set of dungeon generation algorithm (works w/ hx4 w/ minor changes)
