@@ -25,6 +25,7 @@ Engine | Target | Doc | Description
 [Heaps](https://github.com/HeapsIO/heaps) | Web, Mobile, Desktop, Consoles | Yes | High Performance Game Framework
 [OpenFl](https://github.com/openfl/openfl) | Web, Mobile, Desktop | Yes | Interactive game and app development library
 [Starling](https://github.com/openfl/starling) | Web, Mobile, Desktop | Yes | The "Cross-Platform Game Engine", a popular Stage3D framework
+[Stencyl](https://github.com/Stencyl/stencyl-engine) | Web, Mobile, Desktop | Yes | Create Flash, HTML5, iOS, Android, and desktop games with no code with Stencyl
 [unreal.hx](https://github.com/proletariatgames/unreal.hx) | Web, Mobile, Desktop, Consoles | Yes | Unreal.hx: Haxe Integration for Unreal
 *haxe3 or unmaintained* &#x1F648; | _ | _ | [Flambe](https://github.com/aduros/flambe), [HaxePunk](https://github.com/HaxePunk/HaxePunk), [luxe](https://github.com/underscorediscovery/luxe)
 **Smaller Engines** | | |
