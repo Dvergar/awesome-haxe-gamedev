@@ -3,7 +3,7 @@
 # Table of contents
 * [Game Engines](#game-engines)
 * [Physics](#physics)
-* [Architectures](#architectures)
+* [Architecture](#architecture)
 * [Game hosts API](#game-hosts-API)
 * [Networking](#networking)
 * [Serialization](#serialization)
@@ -51,7 +51,7 @@ Library | Doc | Description
 *haxe3 or unmaintained* &#x1F648; | |[box2d](https://github.com/openfl/box2d/)
 
 
-# Architectures
+# Architecture
 IoC == Inversion of Control  
 EC == Entity Component  
 ECS == Entity-Component-System
