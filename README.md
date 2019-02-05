@@ -136,6 +136,7 @@ Math helpers | [hxmath](https://github.com/tbrosman/hxmath) | A game-oriented ma
 Pathfinding | [pathfinder](https://github.com/hypersurge/pathfinder) | easy A* (A Star / astar) pathfinding (Haxe)
 Texture Packer | [hxpk](https://github.com/bendmorris/hxpk) | Haxe port of the libGDX Texture Packer
 Tweening | [actuate](https://github.com/jgranick/actuate) | Actuate is a flexible, fast "tween" library
+_ | [YATL](https://github.com/Yanrishatum/yatl) | Yet Another (Haxe) Tweening Library
 UI | [domkit](https://github.com/ncannasse/domkit) | CSS Components based strictly typed UI framework for Haxe
 _ | [flixel-ui](https://github.com/HaxeFlixel/flixel-ui) | GUI library for HaxeFlixel
 
