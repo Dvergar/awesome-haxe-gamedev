@@ -59,6 +59,7 @@ Library | Doc | Description
 IoC == Inversion of Control  
 EC == Entity Component  
 ECS == Entity-Component-System
+FSM == Finite State Machine
 
 Library | Architecture | Doc | Description
 --------| -------------|:---:| -----------
@@ -66,6 +67,7 @@ Library | Architecture | Doc | Description
 [ecx](https://github.com/eliasku/ecx) | ECS | yes | ECX is Entity Component System framework for Haxe
 [GASM](https://github.com/HacksawStudios/GASM) | ECS | no | Framework agnostic EntityComponent System for Haxe
 [ghost](https://github.com/AustinEast/ghost) | ECS | no | ECS Game Framework built on top of Heaps
+[HxFSM](https://github.com/lbergman/HxFSM) | ECS | hum | Simple FSM for Haxe
 [OSIS](https://github.com/Dvergar/OSIS) | ECS | yes | Entity Component System architecture with networking support
 *haxe3 or unmaintained* &#x1F648;| | | [Ash-Haxe](https://github.com/nadako/Ash-HaXe), [IceEntity](https://github.com/NicoM1/IceEntity), [hxE](https://github.com/PDeveloper/hxE), [eskimo](https://github.com/PDeveloper/eskimo), [edge](https://github.com/fponticelli/edge), [ZE2D](https://github.com/zgoh/ZE2D)
 
