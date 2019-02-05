@@ -79,6 +79,7 @@ Library | Doc | Description
 Library | Doc | Description
 ------- |:---:| -----------
 [Anette](https://github.com/Dvergar/Anette) | Yes | Simple haxe network library (no UDP)
+[haxe-simple-peer](https://github.com/melonin/haxe-simple-peer) | hum | Haxe externs for simple-peer.
 [hxWebSockets](https://github.com/ianharrigan/hxWebSockets) | hum | Websockets for all haxe platforms
 Built-in | Yes | Heaps, OpenFL (Haxeflixel & co), Kha (Armory)
 *haxe3 or unmaintained* &#x1F648; | _ |[hxnet](https://github.com/MattTuttle/hxnet), [linc_enet](https://github.com/snowkit/linc_enet), [peerhx](https://github.com/haxorplatform/peerhx)
