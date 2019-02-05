@@ -64,14 +64,6 @@ Library | Architecture | Doc | Description
 *haxe3 or unmaintained* &#x1F648;| | | [Ash-Haxe](https://github.com/nadako/Ash-HaXe), [IceEntity](https://github.com/NicoM1/IceEntity), [hxE](https://github.com/PDeveloper/hxE), [eskimo](https://github.com/PDeveloper/eskimo), [edge](https://github.com/fponticelli/edge), [ZE2D](https://github.com/zgoh/ZE2D)
 
 
-# Serialization
-Library | Doc | Description
-------- |:---:| -----------
-[hxbit](https://github.com/ncannasse/hxbit) | Yes | HxBit is a binary serialization and network synchronization library for Haxe.  
-[PODStream](https://github.com/Dvergar/PODStream) | Yes | PODStream will serialize and deserialize your fields from/to BytesInput / BytesOutput.
-*haxe3 or unmaintained* &#x1F648; | _ |[msgpack-haxe](https://github.com/aaulia/msgpack-haxe), [protohx](https://github.com/nitrobin/protohx), [protoc-gen-haxe](https://github.com/Atry/protoc-gen-haxe)
-
-
 # Game hosts API
 Library | Doc | Description
 ------- |:---:| -----------
@@ -86,6 +78,15 @@ Library | Doc | Description
 [hxWebSockets](https://github.com/ianharrigan/hxWebSockets) | hum | Websockets for all haxe platforms
 Built-in | Yes | Heaps, OpenFL (Haxeflixel & co), Kha (Armory)
 *haxe3 or unmaintained* &#x1F648; | _ |[hxnet](https://github.com/MattTuttle/hxnet), [linc_enet](https://github.com/snowkit/linc_enet)
+
+
+# Serialization
+Library | Doc | Description
+------- |:---:| -----------
+[hxbit](https://github.com/ncannasse/hxbit) | Yes | HxBit is a binary serialization and network synchronization library for Haxe.  
+[PODStream](https://github.com/Dvergar/PODStream) | Yes | PODStream will serialize and deserialize your fields from/to BytesInput / BytesOutput.
+*haxe3 or unmaintained* &#x1F648; | _ |[msgpack-haxe](https://github.com/aaulia/msgpack-haxe), [protohx](https://github.com/nitrobin/protohx), [protoc-gen-haxe](https://github.com/Atry/protoc-gen-haxe)
+
 
 
 # Games
