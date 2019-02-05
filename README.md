@@ -138,6 +138,7 @@ _ | Heaps | Built-in parser for Tiled
 Math helpers | [hxmath](https://github.com/tbrosman/hxmath) | A game-oriented math library for the Haxe language
 _ | [hx-vector2d](https://github.com/markknol/hx-vector2d) | Worlds most complete Vector2d / Point class for Haxe. With operator overloading.
 Particles | [Sparkler](https://github.com/RudenkoArts/sparkler) | Modular Particle System
+_ | Flixel | built-in
 Pathfinding | [pathfinder](https://github.com/hypersurge/pathfinder) | easy A* (A Star / astar) pathfinding (Haxe)
 Texture Packer | [hxpk](https://github.com/bendmorris/hxpk) | Haxe port of the libGDX Texture Packer
 Tweening | [actuate](https://github.com/jgranick/actuate) | Actuate is a flexible, fast "tween" library
