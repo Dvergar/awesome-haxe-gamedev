@@ -132,6 +132,7 @@ Map parser | [PyxelEdit Map Importer](https://github.com/Dvergar/PyxelEdit-Map-I
 _ | Heaps | Built-in parser for Tiled
 Math helpers | [hxmath](https://github.com/tbrosman/hxmath) | A game-oriented math library for the Haxe language
 Pathfinding | [pathfinder](https://github.com/hypersurge/pathfinder) | easy A* (A Star / astar) pathfinding (Haxe)
+Texture Packer | [hxpk](https://github.com/bendmorris/hxpk) | Haxe port of the libGDX Texture Packer
 Tweening | [actuate](https://github.com/jgranick/actuate) | Actuate is a flexible, fast "tween" library
 UI | [domkit](https://github.com/ncannasse/domkit) | CSS Components based strictly typed UI framework for Haxe
 _ | [flixel-ui](https://github.com/HaxeFlixel/flixel-ui) | GUI library for HaxeFlixel
