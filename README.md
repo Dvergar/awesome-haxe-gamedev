@@ -30,6 +30,7 @@ Engine | Target | Doc | Description
 *haxe3 or unmaintained* &#x1F648; | _ | _ | [Flambe](https://github.com/aduros/flambe), [HaxePunk](https://github.com/HaxePunk/HaxePunk), [luxe](https://github.com/underscorediscovery/luxe)
 **Smaller Engines** | | |
 [Clay](https://github.com/clay2d/clay) | Web, Mobile, Desktop, Consoles | No | Clay is a cross-platform, 2d game framework.
+[Flurry](https://github.com/Aidan63/Flurry) | Web, Desktop | No | 2D focused, cross-platform Haxe game engine with multiple rendering backends
 [gm2d](https://github.com/nmehost/gm2d) | Web, Mobile, Desktop | No | A library for rapid game developement with Haxe, NME and Waxe.
 [hank](https://github.com/NQNStudios/hank) | N/A | Yes | Portable narrative scripting language based on Ink.
 [iron (Kha)](https://github.com/armory3d/iron) | Web, Mobile, Desktop, Consoles | No | Iron is a library for building ultra-portable 3D tools
