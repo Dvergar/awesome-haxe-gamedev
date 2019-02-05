@@ -34,6 +34,7 @@ Engine | Target | Doc | Description
 [gm2d](https://github.com/nmehost/gm2d) | Web, Mobile, Desktop | No | A library for rapid game developement with Haxe, NME and Waxe.
 [hank](https://github.com/NQNStudios/hank) | N/A | Yes | Portable narrative scripting language based on Ink.
 [iron (Kha)](https://github.com/armory3d/iron) | Web, Mobile, Desktop, Consoles | No | Iron is a library for building ultra-portable 3D tools
+[xt3d](https://github.com/stuartcaunt/xt3d) | Web, Mobile, Desktop | No | An open-source, cross-platform, 3D graphics and game-development framework using Haxe/Lime
 *haxe3 or unmaintained* &#x1F648; | _ | _ | [Gecko2D](https://github.com/Nazariglez/Gecko2D), [haxe-phaser3](https://github.com/sebbernery/haxe-phaser3), [Khapunk](https://bitbucket.org/stalei/khapunk)
 
 
