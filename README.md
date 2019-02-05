@@ -122,6 +122,7 @@ Game | Platform | Engine | Screenshot
 More showcase :
 * https://www.openfl.org/showcase/
 * https://haxeflixel.com/showcase/
+* https://itch.io/games/made-with-haxe
 * https://haxepunk.com/games/
 * https://github.com/aduros/flambe/wiki/Showcase
 * https://github.com/Kode/Kha/wiki/Games-Built-With-Kha
