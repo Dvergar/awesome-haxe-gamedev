@@ -158,6 +158,6 @@ _ | [flixel-ui](https://github.com/HaxeFlixel/flixel-ui) | GUI library for HaxeF
 
 # Relevant things to sort and/or add
 
-* Particle emitters
+* https://github.com/restorer/zame-haxe-particles/ (haxe3)
 * https://github.com/proletariatgames/HUGS (haxe3)
 * https://github.com/unihx/unihx (haxe3)
