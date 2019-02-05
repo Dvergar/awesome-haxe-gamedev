@@ -1,4 +1,4 @@
-![Haxe Logo](haxe-logo.png)
+![Haxe Logo](images/haxe-logo.png)
 
 # Table of contents
 * [Game Engines](#game-engines)
@@ -103,9 +103,9 @@ Game | Platform | Engine | Screenshot
 [rymdkapsel](https://rymdkapsel.com/) | Desktop, Mobile | OpenFl | ![Screenshot](images/rymdkapsel.jpg)
 [The Westport Independent](http://www.doublezeroonezero.com/westport.html) | Desktop, Mobile | Luxe | ![Screenshot](images/westport-independent.jpg)
 **IN DEVELOPMENT** | | |
-[Darksburg](https://store.steampowered.com/app/939100/Darksburg/) | Desktop, ? | Heaps
-[Dicey Dungeons](http://diceydungeons.com/) | Desktop, ? | Haxegon (OpenFl)
-[Frontier Story](https://frontierstorygame.com/) | Desktop | Heaps
+[Darksburg](https://store.steampowered.com/app/939100/Darksburg/) | Desktop, ? | Heaps | ![Screenshot](images/darksburg.jpg)
+[Dicey Dungeons](http://diceydungeons.com/) | Desktop, ? | Haxegon (OpenFl) | ![Screenshot](images/dicey-dungeons.jpg)
+[Frontier Story](https://frontierstorygame.com/) | Desktop | Heaps | ![Screenshot](images/frontier-story.jpg)
 
 More showcase :
 * https://www.openfl.org/showcase/
