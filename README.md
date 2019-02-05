@@ -48,7 +48,7 @@ Low-level Engine | Target | Doc | Description
 # Physics
 Library | Doc | Description
 ------- |:---:| -----------
-[nape](https://github.com/XenizoGames/nape_haxe_4) | Yes | Haxe/AS3 Physics Engine (Haxe 4 port of [nape](https://github.com/deltaluca/nape))
+[nape (XenizoGames)](https://github.com/XenizoGames/nape_haxe_4) or [nape (Lythom)](https://github.com/Lythom/nape-build) | Yes | Haxe/AS3 Physics Engine (Haxe 4 port of [nape](https://github.com/deltaluca/nape))
 [haxebullet](https://github.com/armory3d/haxebullet) | Yes | Bullet 3D Physics for Haxe
 *haxe3 or unmaintained* &#x1F648; | |[box2d](https://github.com/openfl/box2d/)
 
