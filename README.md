@@ -56,10 +56,12 @@ Library | Doc | Description
 
 
 # Architecture
+```
 IoC == Inversion of Control  
 EC == Entity Component  
 ECS == Entity-Component-System
 FSM == Finite State Machine
+```
 
 Library | Architecture | Doc | Description
 --------| -------------|:---:| -----------
