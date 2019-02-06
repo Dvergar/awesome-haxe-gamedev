@@ -1,5 +1,7 @@
 ![Haxe Logo](images/haxe-logo.png)
 
+A curated list of **haxe** game development resources.
+
 # Table of contents
 * [Game Engines](#game-engines)
 * [Physics](#physics)
