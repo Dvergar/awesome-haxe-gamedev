@@ -52,7 +52,7 @@ Low-level Engine | Target | Doc | Description
 # Physics
 Library | Doc | Description
 ------- |:---:| -----------
-[nape (XenizoGames)](https://github.com/XenizoGames/nape_haxe_4) or [nape (Lythom)](https://github.com/Lythom/nape-build) | Yes | Haxe/AS3 Physics Engine (the original haxe3 of nape can be found [here](https://github.com/deltaluca/nape))
+[nape (XenizoGames)](https://github.com/XenizoGames/nape_haxe_4) or [nape (Lythom)](https://github.com/Lythom/nape-build) | Yes | Haxe/AS3 Physics Engine (the original haxe3 version of nape can be found [here](https://github.com/deltaluca/nape))
 [haxebullet](https://github.com/armory3d/haxebullet) | Yes | Bullet 3D Physics for Haxe
 *haxe3 or unmaintained* &#x1F648; | |[box2d](https://github.com/openfl/box2d/), [LiquidFunx](https://github.com/JohnSword/liquidfunx)
 
@@ -144,6 +144,7 @@ _ | Heaps | Built-in parser for Tiled
 _ | flixel | Parser for Tiled & Ogmo via [flixel-addons](https://github.com/HaxeFlixel/flixel-addons/tree/dev/flixel/addons/editors)
 Math helpers | [hxmath](https://github.com/tbrosman/hxmath) | A game-oriented math library for the Haxe language
 _ | [hx-vector2d](https://github.com/markknol/hx-vector2d) | Worlds most complete Vector2d / Point class for Haxe. With operator overloading.
+Modding | [polybot](https://github.com/larsiusprime/polymod) | An atomic modding framework for Haxe games/apps
 Particles | [Sparkler](https://github.com/RudenkoArts/sparkler) | Modular Particle System
 _ | Flixel | Built-in
 Pathfinding | [pathfinder](https://github.com/hypersurge/pathfinder) | easy A* (A Star / astar) pathfinding (Haxe)
@@ -152,7 +153,6 @@ Tweening | [actuate](https://github.com/jgranick/actuate) | Actuate is a flexibl
 _ | [YATL](https://github.com/Yanrishatum/yatl) | Yet Another (Haxe) Tweening Library
 UI | [domkit](https://github.com/ncannasse/domkit) | CSS Components based strictly typed UI framework for Haxe
 _ | [flixel-ui](https://github.com/HaxeFlixel/flixel-ui) | GUI library for HaxeFlixel
-Modding | [polybot](https://github.com/larsiusprime/polymod) | An atomic modding framework for Haxe games/apps
 
 # Articles
 * [Flash is dead, long live OpenFL!](http://gamasutra.com/blogs/LarsDoucet/20140318/213407/Flash_is_dead_long_live_OpenFL.php)
