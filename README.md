@@ -21,11 +21,11 @@ Those are haxe 4 compatible game engines.
 Engine | Target | Doc | Description
 -------| -------|:---:| -----------
 [Armory (Kha)](https://github.com/armory3d/armory) | Web, Mobile, Desktop, Consoles | Yes | Armory is an open-source 3D game engine with full Blender integration
-[Away3d](https://github.com/openfl/away3d) | Web, Mobile, Desktop | Yes | An open source, real-time 3D engine for OpenFL
-[HaxeFlixel (OpenFl)](https://github.com/HaxeFlixel/flixel) | Web, Mobile, Desktop | Yes | Free, cross-platform 2D game engine powered by Haxe and OpenFL
-[Haxegon (OpenFl)](https://github.com/haxegon/haxegon) | Web, Mobile, Desktop, Consoles | Yes | A haxe programming library for beginners. Powered by OpenFL and Starling.
+[Away3D](https://github.com/openfl/away3d) | Web, Mobile, Desktop | Yes | An open source, real-time 3D engine for OpenFL
+[HaxeFlixel (OpenFL)](https://github.com/HaxeFlixel/flixel) | Web, Mobile, Desktop, Consoles | Yes | Free, cross-platform 2D game engine powered by Haxe and OpenFL
+[Haxegon (OpenFL)](https://github.com/haxegon/haxegon) | Web, Mobile, Desktop, Consoles | Yes | A haxe programming library for beginners. Powered by OpenFL and Starling.
 [Heaps](https://github.com/HeapsIO/heaps) | Web, Mobile, Desktop, Consoles | Yes | High Performance Game Framework
-[OpenFl](https://github.com/openfl/openfl) | Web, Mobile, Desktop, Consoles | Yes | Interactive game and app development library
+[OpenFL](https://github.com/openfl/openfl) | Web, Mobile, Desktop, Consoles | Yes | Interactive game and app development library
 [Starling](https://github.com/openfl/starling) | Web, Mobile, Desktop | Yes | The "Cross-Platform Game Engine", a popular Stage3D framework
 [Stencyl](https://github.com/Stencyl/stencyl-engine) | Web, Mobile, Desktop | Yes | Create Flash, HTML5, iOS, Android, and desktop games with no code with Stencyl
 [unreal.hx](https://github.com/proletariatgames/unreal.hx) | Web, Mobile, Desktop, Consoles | Yes | Unreal.hx: Haxe Integration for Unreal
@@ -90,7 +90,7 @@ Library | Doc | Description
 [colyseus-hx](https://github.com/colyseus/colyseus-hx) | yes | Multiplayer Game Client for Haxe
 [haxe-simple-peer (js)](https://github.com/melonin/haxe-simple-peer) | hum | Haxe externs for simple-peer.
 [hxWebSockets](https://github.com/ianharrigan/hxWebSockets) | hum | Websockets for all haxe platforms
-Built-in | Yes | Heaps, OpenFL (Haxeflixel & co), Kha (Armory)
+Built-in | Yes | Heaps, OpenFL (HaxeFlixel & co), Kha (Armory)
 *haxe3 or unmaintained* &#x1F648; | _ |[hxnet](https://github.com/MattTuttle/hxnet), [linc_enet](https://github.com/snowkit/linc_enet), [peerhx](https://github.com/haxorplatform/peerhx)
 
 
@@ -109,16 +109,16 @@ Game | Platform | Engine | Screenshot
 -----|----------|--------|-----------
 **RELEASED** | | |
 [Dead Cells](https://dead-cells.com/) | Desktop, Consoles | Heaps | ![Screenshot](images/dead-cells.jpg)
-[Defender's Quest](http://www.defendersquest.com/) | Desktop | OpenFl | ![Screenshot](images/defenders-quest.jpg)
+[Defender's Quest](http://www.defendersquest.com/) | Desktop | OpenFL | ![Screenshot](images/defenders-quest.jpg)
 [Evoland](http://evoland.shirogames.com/) | Desktop, Mobile | Heaps | ![Screenshot](images/evoland.jpg)
 [Northgard](http://northgard.net/) | Desktop | Heaps | ![Screenshot](images/northgard.jpg)
 [Papers, please](http://papersplea.se/) | Desktop, iOS, PsVita| | ![Screenshot](images/papers-please.jpg)
-[Pocket Kingdom](https://store.steampowered.com/app/462620/Pocket_Kingdom/) | Desktop | HaxePunk (OpenFl) | ![Screenshot](images/pocket-kingdom.jpg)
-[rymdkapsel](https://rymdkapsel.com/) | Desktop, Mobile | OpenFl | ![Screenshot](images/rymdkapsel.jpg)
+[Pocket Kingdom](https://store.steampowered.com/app/462620/Pocket_Kingdom/) | Desktop | HaxePunk (OpenFL) | ![Screenshot](images/pocket-kingdom.jpg)
+[rymdkapsel](https://rymdkapsel.com/) | Desktop, Mobile | OpenFL | ![Screenshot](images/rymdkapsel.jpg)
 [The Westport Independent](http://www.doublezeroonezero.com/westport.html) | Desktop, Mobile | Luxe | ![Screenshot](images/westport-independent.jpg)
 **IN DEVELOPMENT** | | |
 [Darksburg](https://store.steampowered.com/app/939100/Darksburg/) | Desktop, ? | Heaps | ![Screenshot](images/darksburg.jpg)
-[Dicey Dungeons](http://diceydungeons.com/) | Desktop, ? | Haxegon (OpenFl) | ![Screenshot](images/dicey-dungeons.jpg)
+[Dicey Dungeons](http://diceydungeons.com/) | Desktop, ? | Haxegon (OpenFL) | ![Screenshot](images/dicey-dungeons.jpg)
 [Frontier Story](https://frontierstorygame.com/) | Desktop | Heaps | ![Screenshot](images/frontier-story.jpg)
 
 More showcase :
