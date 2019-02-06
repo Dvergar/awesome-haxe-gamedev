@@ -112,7 +112,7 @@ Game | Platform | Engine | Screenshot
 [Defender's Quest](http://www.defendersquest.com/) | Desktop, Consoles | HaxeFlixel (OpenFL) | ![Screenshot](images/defenders-quest.jpg)
 [Evoland](http://evoland.shirogames.com/) | Desktop, Mobile | Heaps | ![Screenshot](images/evoland.jpg)
 [Northgard](http://northgard.net/) | Desktop | Heaps | ![Screenshot](images/northgard.jpg)
-[Papers, Please](http://papersplea.se/) | Desktop, iOS, PsVita| | ![Screenshot](images/papers-please.jpg)
+[Papers, Please](http://papersplea.se/) | Desktop, iOS, PsVita| OpenFL | ![Screenshot](images/papers-please.jpg)
 [Pocket Kingdom](https://store.steampowered.com/app/462620/Pocket_Kingdom/) | Desktop | HaxePunk (OpenFL) | ![Screenshot](images/pocket-kingdom.jpg)
 [rymdkapsel](https://rymdkapsel.com/) | Desktop, Mobile | OpenFL | ![Screenshot](images/rymdkapsel.jpg)
 [The Westport Independent](http://www.doublezeroonezero.com/westport.html) | Desktop, Mobile | Luxe | ![Screenshot](images/westport-independent.jpg)
