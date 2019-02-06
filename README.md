@@ -109,7 +109,7 @@ Game | Platform | Engine | Screenshot
 -----|----------|--------|-----------
 **RELEASED** | | |
 [Dead Cells](https://dead-cells.com/) | Desktop, Consoles | Heaps | ![Screenshot](images/dead-cells.jpg)
-[Defender's Quest](http://www.defendersquest.com/) | Desktop | OpenFL | ![Screenshot](images/defenders-quest.jpg)
+[Defender's Quest](http://www.defendersquest.com/) | Desktop | HaxeFlixel (OpenFL) | ![Screenshot](images/defenders-quest.jpg)
 [Evoland](http://evoland.shirogames.com/) | Desktop, Mobile | Heaps | ![Screenshot](images/evoland.jpg)
 [Northgard](http://northgard.net/) | Desktop | Heaps | ![Screenshot](images/northgard.jpg)
 [Papers, please](http://papersplea.se/) | Desktop, iOS, PsVita| | ![Screenshot](images/papers-please.jpg)
