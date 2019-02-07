@@ -136,6 +136,7 @@ Type | Library | Description
 -----|---------|------------
 Animation | [spine-hx](https://github.com/jeremyfa/spine-hx) | Spine runtime for Haxe automatically converted from the official Java/libgdx runtime. For Heaps: [Heaps-Spine](https://github.com/Beeblerox/Heaps-Spine).
 _ | flixel | Spine parser via [flixel-addons](https://github.com/HaxeFlixel/flixel-addons/tree/dev/flixel/addons/editors)
+_ | [Heaps-Spine](https://github.com/Beeblerox/Heaps-Spine) | Spine player for heaps
 Color manipulation | [nxColor](https://github.com/oscarcs/nxColor) | Haxe color manipulation library.
 Collision | [differ](https://github.com/snowkit/differ) | A separation axis theorem collision library
 Procedural generation | [Dungeon builder](https://github.com/julsam/dungeon-builder) | Dungeon Builder is a set of dungeon generation algorithm (works w/ hx4 w/ minor changes)
