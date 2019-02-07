@@ -133,7 +133,7 @@ More showcase :
 
 Type | Library | Description
 -----|---------|------------
-Animation | [spine-hx](https://github.com/jeremyfa/spine-hx) | Spine runtime for Haxe automatically converted from the official Java/libgdx runtime
+Animation | [spine-hx](https://github.com/jeremyfa/spine-hx) | Spine runtime for Haxe automatically converted from the official Java/libgdx runtime. For Heaps: [Heaps-Spine](https://github.com/Beeblerox/Heaps-Spine).
 _ | flixel | Spine parser via [flixel-addons](https://github.com/HaxeFlixel/flixel-addons/tree/dev/flixel/addons/editors)
 Color manipulation | [nxColor](https://github.com/oscarcs/nxColor) | Haxe color manipulation library.
 Collision | [differ](https://github.com/snowkit/differ) | A separation axis theorem collision library
@@ -144,7 +144,7 @@ _ | Heaps | Built-in parser for Tiled
 _ | flixel | Parser for Tiled & Ogmo via [flixel-addons](https://github.com/HaxeFlixel/flixel-addons/tree/dev/flixel/addons/editors)
 Math helpers | [hxmath](https://github.com/tbrosman/hxmath) | A game-oriented math library for the Haxe language
 _ | [hx-vector2d](https://github.com/markknol/hx-vector2d) | Worlds most complete Vector2d / Point class for Haxe. With operator overloading.
-Modding | [polybot](https://github.com/larsiusprime/polymod) | An atomic modding framework for Haxe games/apps
+Modding | [polymod](https://github.com/larsiusprime/polymod) | An atomic modding framework for Haxe games/apps
 Particles | [Sparkler](https://github.com/RudenkoArts/sparkler) | Modular Particle System
 _ | Flixel | Built-in
 Pathfinding | [pathfinder](https://github.com/hypersurge/pathfinder) | easy A* (A Star / astar) pathfinding (Haxe)
