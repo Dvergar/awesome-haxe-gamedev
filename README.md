@@ -145,6 +145,7 @@ Map parser | [PyxelEdit Map Importer](https://github.com/Dvergar/PyxelEdit-Map-I
 _ | Heaps | Built-in parser for Tiled
 _ | flixel | Parser for Tiled & Ogmo via [flixel-addons](https://github.com/HaxeFlixel/flixel-addons/tree/dev/flixel/addons/editors)
 Math helpers | [hxmath](https://github.com/tbrosman/hxmath) | A game-oriented math library for the Haxe language
+_ | [haxe-glm](https://github.com/hamaluik/haxe-glm) | A toolset for using 2, 3, and 4 dimensional vectors and matrices, as well as quaternions
 _ | [hx-vector2d](https://github.com/markknol/hx-vector2d) | Worlds most complete Vector2d / Point class for Haxe. With operator overloading.
 Modding | [polymod](https://github.com/larsiusprime/polymod) | An atomic modding framework for Haxe games/apps
 Particles | [Sparkler](https://github.com/RudenkoArts/sparkler) | Modular Particle System
