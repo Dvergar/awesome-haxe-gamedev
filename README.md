@@ -69,6 +69,7 @@ FSM == Finite State Machine
 Library | Architecture | Doc | Description
 --------| -------------|:---:| -----------
 [awe6](https://github.com/hypersurge/awe6) | IoC, EC | yes | The inverted game framework, is a development tool focused on Future Proofing.
+[ecs](https://github.com/kevinresol/ecs) | ECS | hum | Experimental macro-powered Entity-Component-System game engine
 [ecx](https://github.com/eliasku/ecx) | ECS | yes | ECX is Entity Component System framework for Haxe
 [GASM](https://github.com/HacksawStudios/GASM) | ECS | no | Framework agnostic EntityComponent System for Haxe
 [ghost](https://github.com/AustinEast/ghost) | ECS | no | ECS Game Framework built on top of Heaps
