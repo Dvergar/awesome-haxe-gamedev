@@ -44,6 +44,7 @@ Low-level Engine | Target | Doc | Description
 ---------------- | -------|:---:| -----------
 [Kha](https://github.com/Kode/Kha) | Web, Mobile, Desktop, Console | Yes | Ultra-portable, high performance, open source multimedia framework.
 [Lime](https://github.com/openfl/lime) | Web, Mobile, Desktop | Yes | Lime is a flexible, lightweight layer for Haxe cross-platform developers
+[linc_glfw](https://github.com/Sunjammer/linc_glfw) | Desktop | Yes | GLFW bindings for Haxe (multi-platform library for OpenGL, OpenGL ES and Vulkan)
 [NME](https://github.com/haxenme/nme) | Web, Mobile, Desktop | No | A cross-platform native backend for Haxe projects
 *haxe3 or unmaintained* &#x1F648; | _ | _ | [snow](https://github.com/snowkit/snow),
 
