@@ -101,7 +101,7 @@ Library | Doc | Description
 ------- |:---:| -----------
 [CastleDB](https://github.com/ncannasse/castle) | Yes | CastleDB is a structured static database easing collaboration.
 [hxbit](https://github.com/ncannasse/hxbit) | Yes | HxBit is a binary serialization and network synchronization library for Haxe.  
-[PODStream](https://github.com/Dvergar/PODStream) | Yes | PODStream will serialize and deserialize your fields from/to BytesInput / BytesOutput.
+[PODStream](https://github.com/Dvergar/PODStream) | Yes | Haxe POD serializer
 *haxe3 or unmaintained* &#x1F648; | _ |[msgpack-haxe](https://github.com/aaulia/msgpack-haxe), [protohx](https://github.com/nitrobin/protohx), [protoc-gen-haxe](https://github.com/Atry/protoc-gen-haxe)
 
 
