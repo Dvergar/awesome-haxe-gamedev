@@ -22,8 +22,8 @@ Engine | Target | Doc | Description
 -------| -------|:---:| -----------
 [Armory (Kha)](https://github.com/armory3d/armory) | Web, Mobile, Desktop, Consoles | Yes | Armory is an open-source 3D game engine with full Blender integration
 [Away3D](https://github.com/openfl/away3d) | Web, Mobile, Desktop | Yes | An open source, real-time 3D engine for OpenFL
-[HaxeFlixel (OpenFL)](https://github.com/HaxeFlixel/flixel) | Web, Mobile, Desktop, Consoles | Yes | Free, cross-platform 2D game engine powered by Haxe and OpenFL
-[Haxegon (OpenFL)](https://github.com/haxegon/haxegon) | Web, Mobile, Desktop, Consoles | Yes | A haxe programming library for beginners. Powered by OpenFL and Starling.
+[HaxeFlixel (OpenFL)](https://github.com/HaxeFlixel/flixel) | Web, Mobile, Desktop, Consoles | Yes | Free, cross-platform 2D game engine powered by OpenFL
+[Haxegon (OpenFL)](https://github.com/haxegon/haxegon) | Web, Mobile, Desktop, Consoles | Yes | A programming library for beginners. Powered by OpenFL and Starling
 [Heaps](https://github.com/HeapsIO/heaps) | Web, Mobile, Desktop, Consoles | Yes | High Performance Game Framework
 [OpenFL](https://github.com/openfl/openfl) | Web, Mobile, Desktop, Consoles | Yes | Interactive game and app development library
 [Starling](https://github.com/openfl/starling) | Web, Mobile, Desktop | Yes | The "Cross-Platform Game Engine", a popular Stage3D framework
@@ -31,22 +31,22 @@ Engine | Target | Doc | Description
 [unreal.hx](https://github.com/proletariatgames/unreal.hx) | Web, Mobile, Desktop, Consoles | Yes | Unreal.hx: Haxe Integration for Unreal
 *haxe3 or unmaintained* &#x1F648; | _ | _ | [Flambe](https://github.com/aduros/flambe), [HaxePunk](https://github.com/HaxePunk/HaxePunk), [luxe](https://github.com/underscorediscovery/luxe)
 **Smaller Engines** | | |
-[Clay](https://github.com/clay2d/clay) | Web, Mobile, Desktop, Consoles | No | Clay is a cross-platform, 2d game framework.
-[Flurry](https://github.com/Aidan63/Flurry) | Web, Desktop | No | 2D focused, cross-platform Haxe game engine with multiple rendering backends
-[gm2d](https://github.com/nmehost/gm2d) | Web, Mobile, Desktop | No | A library for rapid game developement with Haxe, NME and Waxe.
-[hank](https://github.com/NQNStudios/hank) | N/A | Yes | Portable narrative scripting language based on Ink.
+[Clay](https://github.com/clay2d/clay) | Web, Mobile, Desktop, Consoles | No | Clay is a cross-platform, 2d game framework
+[Flurry](https://github.com/Aidan63/Flurry) | Web, Desktop | No | 2D focused, cross-platform game engine with multiple rendering backends
+[gm2d](https://github.com/nmehost/gm2d) | Web, Mobile, Desktop | No | A library for rapid game developement with NME and Waxe
+[hank](https://github.com/NQNStudios/hank) | N/A | Yes | Portable narrative scripting language based on Ink
 [iron (Kha)](https://github.com/armory3d/iron) | Web, Mobile, Desktop, Consoles | No | Iron is a library for building ultra-portable 3D tools
-[xt3d](https://github.com/stuartcaunt/xt3d) | Web, Mobile, Desktop | No | An open-source, cross-platform, 3D graphics and game-development framework using Haxe/Lime
+[xt3d](https://github.com/stuartcaunt/xt3d) | Web, Mobile, Desktop | No | An open-source, cross-platform, 3D graphics and game-development framework using Lime
 *haxe3 or unmaintained* &#x1F648; | _ | _ | [Gecko2D](https://github.com/Nazariglez/Gecko2D), [haxe-phaser3](https://github.com/sebbernery/haxe-phaser3), [Khapunk](https://bitbucket.org/stalei/khapunk)
 
 
 Low-level Engine | Target | Doc | Description
 ---------------- | -------|:---:| -----------
-[Kha](https://github.com/Kode/Kha) | Web, Mobile, Desktop, Console | Yes | Ultra-portable, high performance, open source multimedia framework.
-[Lime](https://github.com/openfl/lime) | Web, Mobile, Desktop | Yes | Lime is a flexible, lightweight layer for Haxe cross-platform developers
-[linc_glfw](https://github.com/Sunjammer/linc_glfw) | Desktop | Yes | GLFW bindings for Haxe (multi-platform library for OpenGL, OpenGL ES and Vulkan)
+[Kha](https://github.com/Kode/Kha) | Web, Mobile, Desktop, Console | Yes | Ultra-portable, high performance, open source multimedia framework
+[Lime](https://github.com/openfl/lime) | Web, Mobile, Desktop | Yes | Lime is a flexible, lightweight layer for haxe cross-platform developers
+[linc_glfw](https://github.com/Sunjammer/linc_glfw) | Desktop | Yes | GLFW binding (multi-platform library for OpenGL, OpenGL ES and Vulkan)
 [NME](https://github.com/haxenme/nme) | Web, Mobile, Desktop | No | A cross-platform native backend for Haxe projects
-*haxe3 or unmaintained* &#x1F648; | _ | _ | [snow](https://github.com/snowkit/snow),
+*haxe3 or unmaintained* &#x1F648; | _ | _ | [snow](https://github.com/snowkit/snow)
 
 
 
@@ -69,13 +69,13 @@ MVC == Model View Controller
 
 Library | Architecture | Doc | Description
 --------| -------------|:---:| -----------
-[awe6](https://github.com/hypersurge/awe6) | IoC, EC | yes | The inverted game framework, is a development tool focused on Future Proofing.
+[awe6](https://github.com/hypersurge/awe6) | IoC, EC | yes | The inverted game framework, is a development tool focused on Future Proofing
 [ecs](https://github.com/kevinresol/ecs) | ECS | hum | Experimental macro-powered Entity-Component-System game engine
-[ecx](https://github.com/eliasku/ecx) | ECS | yes | ECX is Entity Component System framework for Haxe
+[ecx](https://github.com/eliasku/ecx) | ECS | yes | ECX is Entity Component System framework
 [GASM](https://github.com/HacksawStudios/GASM) | ECS | no | Framework agnostic EntityComponent System for Haxe
 [ghost](https://github.com/AustinEast/ghost) | ECS | no | ECS Game Framework built on top of Heaps
 [hexMachina](https://github.com/DoclerLabs/hexCore) | MVC | yes | A powerful multi-modular MVC framework
-[HxFSM](https://github.com/lbergman/HxFSM) | ECS | hum | Simple FSM for Haxe
+[HxFSM](https://github.com/lbergman/HxFSM) | ECS | hum | Simple FSM
 [OSIS](https://github.com/Dvergar/OSIS) | ECS | yes | Entity Component System architecture with networking support
 *haxe3 or unmaintained* &#x1F648;| | | [Ash-Haxe](https://github.com/nadako/Ash-HaXe), [IceEntity](https://github.com/NicoM1/IceEntity), [hxE](https://github.com/PDeveloper/hxE), [eskimo](https://github.com/PDeveloper/eskimo), [edge](https://github.com/fponticelli/edge), [ZE2D](https://github.com/zgoh/ZE2D)
 
@@ -90,9 +90,9 @@ Library | Doc | Description
 # Networking
 Library | Doc | Description
 ------- |:---:| -----------
-[Anette](https://github.com/Dvergar/Anette) | Yes | Simple haxe network library (no UDP)
-[colyseus-hx](https://github.com/colyseus/colyseus-hx) | yes | Multiplayer Game Client for Haxe
-[haxe-simple-peer (js)](https://github.com/melonin/haxe-simple-peer) | hum | Haxe externs for simple-peer.
+[Anette](https://github.com/Dvergar/Anette) | Yes | Simple network library (no UDP)
+[colyseus-hx](https://github.com/colyseus/colyseus-hx) | yes | Multiplayer Game Client
+[haxe-simple-peer (js)](https://github.com/melonin/haxe-simple-peer) | hum | Haxe externs for simple-peer
 [hxWebSockets](https://github.com/ianharrigan/hxWebSockets) | hum | Websockets for all haxe platforms
 Built-in | Yes | Heaps, OpenFL (HaxeFlixel & co), Kha (Armory)
 *haxe3 or unmaintained* &#x1F648; | _ |[hxnet](https://github.com/MattTuttle/hxnet), [linc_enet](https://github.com/snowkit/linc_enet), [peerhx](https://github.com/haxorplatform/peerhx)
@@ -101,9 +101,9 @@ Built-in | Yes | Heaps, OpenFL (HaxeFlixel & co), Kha (Armory)
 # Serialization and storage
 Library | Doc | Description
 ------- |:---:| -----------
-[CastleDB](https://github.com/ncannasse/castle) | Yes | CastleDB is a structured static database easing collaboration.
-[hxbit](https://github.com/ncannasse/hxbit) | Yes | HxBit is a binary serialization and network synchronization library for Haxe.  
-[PODStream](https://github.com/Dvergar/PODStream) | Yes | Haxe POD serializer
+[CastleDB](https://github.com/ncannasse/castle) | Yes | CastleDB is a structured static database easing collaboration
+[hxbit](https://github.com/ncannasse/hxbit) | Yes | HxBit is a binary serialization and network synchronization library  
+[PODStream](https://github.com/Dvergar/PODStream) | Yes | POD serializer
 *haxe3 or unmaintained* &#x1F648; | _ |[msgpack-haxe](https://github.com/aaulia/msgpack-haxe), [protohx](https://github.com/nitrobin/protohx), [protoc-gen-haxe](https://github.com/Atry/protoc-gen-haxe)
 
 
@@ -137,10 +137,10 @@ More showcase :
 
 Type | Library | Description
 -----|---------|------------
-Animation | [spine-hx](https://github.com/jeremyfa/spine-hx) | Spine runtime for Haxe automatically converted from the official Java/libgdx runtime. For Heaps: [Heaps-Spine](https://github.com/Beeblerox/Heaps-Spine).
+Animation | [spine-hx](https://github.com/jeremyfa/spine-hx) | Spine runtime for Haxe automatically converted from the official Java/libgdx runtime. For Heaps: [Heaps-Spine](https://github.com/Beeblerox/Heaps-Spine)
 _ | HaxeFlixel | Spine parser via [flixel-addons](https://github.com/HaxeFlixel/flixel-addons/tree/dev/flixel/addons/editors)
 _ | [Heaps-Spine](https://github.com/Beeblerox/Heaps-Spine) | Spine player for heaps
-Color manipulation | [nxColor](https://github.com/oscarcs/nxColor) | Haxe color manipulation library.
+Color manipulation | [nxColor](https://github.com/oscarcs/nxColor) | Color manipulation library
 Collision | [differ](https://github.com/snowkit/differ) | A separation axis theorem collision library
 Editor | [flixel-studio](https://github.com/Dovyski/flixel-studio) | In-game editor for HaxeFlixel
 Procedural generation | [Dungeon builder](https://github.com/julsam/dungeon-builder) | Dungeon Builder is a set of dungeon generation algorithm (works w/ hx4 w/ minor changes)
@@ -150,16 +150,16 @@ _ | Heaps | Built-in parser for Tiled
 _ | HaxeFlixel | Parser for Tiled & Ogmo via [flixel-addons](https://github.com/HaxeFlixel/flixel-addons/tree/dev/flixel/addons/editors)
 Math helpers | [hxmath](https://github.com/tbrosman/hxmath) | A game-oriented math library for the Haxe language
 _ | [haxe-glm](https://github.com/hamaluik/haxe-glm) | A toolset for using 2, 3, and 4 dimensional vectors and matrices, as well as quaternions
-_ | [hx-vector2d](https://github.com/markknol/hx-vector2d) | Worlds most complete Vector2d / Point class for Haxe. With operator overloading.
+_ | [hx-vector2d](https://github.com/markknol/hx-vector2d) | Worlds most complete Vector2d / Point class. With operator overloading
 Modding | [polymod](https://github.com/larsiusprime/polymod) | An atomic modding framework for Haxe games/apps
 Particles | [Sparkler](https://github.com/RudenkoArts/sparkler) | Modular Particle System
 _ | HaxeFlixel | Built-in
 Pathfinding | [pathfinder](https://github.com/hypersurge/pathfinder) | easy A* (A Star / astar) pathfinding (Haxe)
-Sprite | [haxe-aseprite](https://github.com/PongoEngine/haxe-aseprite) | Haxe parser for .ase and .aseprite files
-Texture Packer | [hxpk](https://github.com/bendmorris/hxpk) | Haxe port of the libGDX Texture Packer
+Sprite | [haxe-aseprite](https://github.com/PongoEngine/haxe-aseprite) | Parser for .ase and .aseprite files
+Texture Packer | [hxpk](https://github.com/bendmorris/hxpk) | Port of the libGDX Texture Packer
 Tweening | [actuate](https://github.com/jgranick/actuate) | Actuate is a flexible, fast "tween" library
 _ | [YATL](https://github.com/Yanrishatum/yatl) | Yet Another (Haxe) Tweening Library
-UI | [domkit](https://github.com/ncannasse/domkit) | CSS Components based strictly typed UI framework for Haxe
+UI | [domkit](https://github.com/ncannasse/domkit) | CSS Components based strictly typed UI framework
 _ | [flixel-ui](https://github.com/HaxeFlixel/flixel-ui) | GUI library for HaxeFlixel
 
 # Articles
