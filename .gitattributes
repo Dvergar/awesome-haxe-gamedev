@@ -1,1 +1,2 @@
 *.md linguist-language=Haxe
+*.md linguist-documentation=false
