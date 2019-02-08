@@ -153,6 +153,7 @@ Modding | [polymod](https://github.com/larsiusprime/polymod) | An atomic modding
 Particles | [Sparkler](https://github.com/RudenkoArts/sparkler) | Modular Particle System
 _ | HaxeFlixel | Built-in
 Pathfinding | [pathfinder](https://github.com/hypersurge/pathfinder) | easy A* (A Star / astar) pathfinding (Haxe)
+Sprite | [haxe-aseprite](https://github.com/PongoEngine/haxe-aseprite) | Haxe parser for .ase and .aseprite files
 Texture Packer | [hxpk](https://github.com/bendmorris/hxpk) | Haxe port of the libGDX Texture Packer
 Tweening | [actuate](https://github.com/jgranick/actuate) | Actuate is a flexible, fast "tween" library
 _ | [YATL](https://github.com/Yanrishatum/yatl) | Yet Another (Haxe) Tweening Library
