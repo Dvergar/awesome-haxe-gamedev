@@ -141,6 +141,7 @@ Animation | [spine-hx](https://github.com/jeremyfa/spine-hx) | Spine runtime for
 _ | HaxeFlixel | Spine parser via [flixel-addons](https://github.com/HaxeFlixel/flixel-addons/tree/dev/flixel/addons/editors)
 _ | [Heaps-Spine](https://github.com/Beeblerox/Heaps-Spine) | Spine player for heaps
 Color manipulation | [nxColor](https://github.com/oscarcs/nxColor) | Color manipulation library
+_ | [thx.color](https://github.com/fponticelli/thx.color) | Library for color manipulation
 Collision | [differ](https://github.com/snowkit/differ) | A separation axis theorem collision library
 Editor | [flixel-studio](https://github.com/Dovyski/flixel-studio) | In-game editor for HaxeFlixel
 Procedural generation | [Dungeon builder](https://github.com/julsam/dungeon-builder) | Dungeon Builder is a set of dungeon generation algorithm (works w/ hx4 w/ minor changes)
