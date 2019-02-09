@@ -162,6 +162,7 @@ Tweening | [actuate](https://github.com/jgranick/actuate) | Actuate is a flexibl
 _ | [YATL](https://github.com/Yanrishatum/yatl) | Yet Another (Haxe) Tweening Library
 UI | [domkit](https://github.com/ncannasse/domkit) | CSS Components based strictly typed UI framework
 _ | [flixel-ui](https://github.com/HaxeFlixel/flixel-ui) | GUI library for HaxeFlixel
+_ | [hx-quicksettings](https://github.com/markknol/hx-quicksettings) | JS extern classes for QuickSettings
 
 # Articles
 * [Flash is dead, long live OpenFL!](http://gamasutra.com/blogs/LarsDoucet/20140318/213407/Flash_is_dead_long_live_OpenFL.php)
