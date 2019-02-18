@@ -77,7 +77,7 @@ Library | Architecture | Doc | Description
 [hexMachina](https://github.com/DoclerLabs/hexCore) | MVC | yes | A powerful multi-modular MVC framework
 [HxFSM](https://github.com/lbergman/HxFSM) | ECS | hum | Simple FSM
 [OSIS](https://github.com/Dvergar/OSIS) | ECS | yes | Entity Component System architecture with networking support
-*haxe3 or unmaintained* &#x1F648;| | | [Ash-Haxe](https://github.com/nadako/Ash-HaXe), [IceEntity](https://github.com/NicoM1/IceEntity), [hxE](https://github.com/PDeveloper/hxE), [eskimo](https://github.com/PDeveloper/eskimo), [edge](https://github.com/fponticelli/edge), [ZE2D](https://github.com/zgoh/ZE2D), [echo](https://github.com/deepcake/echo)
+*haxe3 or unmaintained* &#x1F648;| | | [Ash-Haxe](https://github.com/nadako/Ash-HaXe), [IceEntity](https://github.com/NicoM1/IceEntity), [hxE](https://github.com/PDeveloper/hxE), [eskimo](https://github.com/PDeveloper/eskimo), [edge](https://github.com/fponticelli/edge), [ZE2D](https://github.com/zgoh/ZE2D), [echo](https://github.com/deepcake/echo), [baldrick](https://github.com/hamaluik/baldrick)
 
 
 # Game hosts API
