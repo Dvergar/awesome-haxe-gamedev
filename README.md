@@ -179,3 +179,7 @@ _ | [flixel-ui](https://github.com/HaxeFlixel/flixel-ui) | GUI library for HaxeF
 * https://github.com/restorer/zame-haxe-particles/ (haxe3)
 * https://github.com/proletariatgames/HUGS (haxe3)
 * https://github.com/unihx/unihx (haxe3)
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
