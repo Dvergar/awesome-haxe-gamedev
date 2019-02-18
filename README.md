@@ -2,7 +2,7 @@
 
 A curated list of **haxe** game development resources.
 
-# Table of contents
+# Contents
 * [Game Engines](#game-engines)
 * [Physics](#physics)
 * [Architecture](#architecture)
