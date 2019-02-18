@@ -167,6 +167,7 @@ _ | [flixel-ui](https://github.com/HaxeFlixel/flixel-ui) | GUI library for HaxeF
 * [Flash is gone, what now?](https://www.linkedin.com/pulse/flash-gone-what-now-matan-uberstein/)
 * [How I wrote my own 3D game engine and shipped a game with it in 20 months](https://kircode.com/post/how-i-wrote-my-own-3d-game-engine-and-shipped-a-game-with-it-in-20-months)
 * [Building 42 games within a year — Insane game development](https://medium.com/@mknol/building-42-games-within-a-year-insane-game-development-5340d506068f)
+* [Porting to console via Unity](https://do-games.com/blog/the-adventure-pals-console-tech-part1)
 
 # Other haxe lists
 * https://github.com/nadako/awesome-haxe
