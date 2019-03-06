@@ -25,6 +25,7 @@ Engine | Target | Doc | Description
 [HaxeFlixel (OpenFL)](https://github.com/HaxeFlixel/flixel) | Web, Mobile, Desktop, Consoles | Yes | Free, cross-platform 2D game engine powered by OpenFL.
 [Haxegon (OpenFL)](https://github.com/haxegon/haxegon) | Web, Mobile, Desktop, Consoles | Yes | A programming library for beginners. Powered by OpenFL and Starling.
 [Heaps](https://github.com/HeapsIO/heaps) | Web, Mobile, Desktop, Consoles | Yes | High Performance Game Framework.
+[hxdefold](https://github.com/hxdefold/hxdefold) | Web, Mobile, Desktop | Yes | Haxe/Lua externs for Defold game engine
 [OpenFL](https://github.com/openfl/openfl) | Web, Mobile, Desktop, Consoles | Yes | Interactive game and app development library.
 [Starling](https://github.com/openfl/starling) | Web, Mobile, Desktop | Yes | The "Cross-Platform Game Engine", a popular Stage3D framework.
 [Stencyl (OpenFL)](https://github.com/Stencyl/stencyl-engine) | Web, Mobile, Desktop | Yes | Create Flash, HTML5, iOS, Android, and desktop games with no code with Stencyl
