@@ -103,6 +103,7 @@ Built-in | Yes | Heaps, OpenFL (HaxeFlixel & co), Kha (Armory).
 # Serialization and storage
 Library | Doc | Description
 ------- |:---:| -----------
+[Bits](https://github.com/RealyUniqueName/Bits) | Yes | Binary bit flags with unlimited amount of bits.
 [CastleDB](https://github.com/ncannasse/castle) | Yes | CastleDB is a structured static database easing collaboration.
 [hxbit](https://github.com/ncannasse/hxbit) | Yes | HxBit is a binary serialization and network synchronization library  .
 [PODStream](https://github.com/Dvergar/PODStream) | Yes | POD serializer.
