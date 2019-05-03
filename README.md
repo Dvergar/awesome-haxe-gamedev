@@ -56,7 +56,7 @@ Library | Doc | Description
 ------- |:---:| -----------
 [echo](https://github.com/AustinEast/echo/) | Yes | Simple Physics Library.
 [haxebullet](https://github.com/armory3d/haxebullet) | Yes | Bullet 3D Physics for Haxe.
-[nape (XenizoGames)](https://github.com/XenizoGames/nape_haxe_4) or [nape (Lythom)](https://github.com/Lythom/nape-build) | Yes | Haxe/AS3 Physics Engine (the original haxe3 version of nape can be found [here](https://github.com/deltaluca/nape)).
+[nape-haxe4](https://github.com/HaxeFlixel/nape-haxe4) | Yes | Haxe/AS3 Physics Engine (the original haxe3 version of nape can be found [here](https://github.com/deltaluca/nape)).
 *haxe3 or unmaintained* &#x1F648; | |[box2d](https://github.com/openfl/box2d/), [LiquidFunx](https://github.com/JohnSword/liquidfunx)
 
 
