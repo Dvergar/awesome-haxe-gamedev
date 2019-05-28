@@ -1,6 +1,8 @@
 ![Haxe Logo](images/haxe-logo.png)
 
-A curated list of **haxe** game development resources.
+# Awesome Haxe Gamedev [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
+A curated list of **haxe** game development resources. 
 
 # Contents
 * [Game Engines](#game-engines)
