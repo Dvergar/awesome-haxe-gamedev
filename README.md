@@ -180,3 +180,7 @@ More showcase :
 * [awesome haxe](https://github.com/nadako/awesome-haxe)
 * [awesome snowkit](https://github.com/anissen/awesome-snowkit)
 * [awesome haxe js](https://github.com/MatthijsKamstra/awesome-haxe-js)
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
