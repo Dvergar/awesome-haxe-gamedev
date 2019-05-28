@@ -156,6 +156,7 @@ _ | [haxe-glm](https://github.com/hamaluik/haxe-glm) | A toolset for using 2, 3,
 _ | [hx-vector2d](https://github.com/markknol/hx-vector2d) | Worlds most complete Vector2d / Point class. With operator overloading.
 Modding | [polymod](https://github.com/larsiusprime/polymod) | An atomic modding framework for Haxe games/apps.
 Particles | [Sparkler](https://github.com/RudenkoArts/sparkler) | Modular Particle System.
+Monetization | [extension-iap](https://github.com/charmdev/extension-iap) | Provides an access to in-app purchases (iOS) and in-app billing (Android) for OpenFL projects using a common API. Fork of [this](https://github.com/HaxeExtension/extension-iap).
 _ | HaxeFlixel | Built-in.
 Pathfinding | [pathfinder](https://github.com/hypersurge/pathfinder) | easy A* (A Star / astar) pathfinding (Haxe).
 Sprite | [haxe-aseprite](https://github.com/PongoEngine/haxe-aseprite) | Parser for .ase and .aseprite files.
