@@ -75,6 +75,7 @@ Library | Architecture | Doc | Description
 [ecs](https://github.com/kevinresol/ecs) | ECS | hum | Experimental macro-powered Entity-Component-System game engine.
 [ecx](https://github.com/eliasku/ecx) | ECS | yes | ECX is Entity Component System framework.
 [GASM](https://github.com/HacksawStudios/GASM) | ECS | no | Framework agnostic EntityComponent System for Haxe.
+[Gluon](https://gitlab.com/d-moreno/gluon) | ECS | no | A tiny library that integrates engine agnostic ECS library Baldrick and Heaps.
 [ghost](https://github.com/AustinEast/ghost) | ECS | no | ECS Game Framework built on top of Heaps.
 [hexMachina](https://github.com/DoclerLabs/hexCore) | MVC | yes | A powerful multi-modular MVC framework.
 [HxFSM](https://github.com/lbergman/HxFSM) | ECS | hum | Simple FSM
