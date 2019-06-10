@@ -1,6 +1,6 @@
 ![Haxe Logo](images/haxe-logo.png)
 
-# Awesome Haxe Gamedev [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome Haxe Game Development [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 A curated list game development resources for **Haxe**, the cross-platform toolkit. 
 
