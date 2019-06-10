@@ -2,7 +2,7 @@
 
 # Awesome Haxe Gamedev [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-A curated list of **haxe** game development resources. 
+A curated list game development resources for **Haxe**, the cross-platform toolkit. 
 
 ## Contents
 * [Game engines](#game-engines)
