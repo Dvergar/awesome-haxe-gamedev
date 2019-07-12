@@ -1,4 +1,4 @@
-![Haxe Logo](images/haxe-logo.png)
+<img src="images/haxe-logo.png" width="500">
 
 # Awesome Haxe Game Development [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
