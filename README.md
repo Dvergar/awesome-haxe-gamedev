@@ -2,7 +2,11 @@
 
 # Awesome Haxe Game Development [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-A curated list game development resources for **Haxe**, the cross-platform toolkit. 
+A curated list of game development resources for the new **[Haxe 4](https://haxe.org/)**, a high level strictly typed programming language which is used to produce cross-platform native code.
+
+This list is regularly updated hence libraries should be relevant in either their size, freshness or for study purpose when they are written for Haxe 3.
+
+Feel free to update it.
 
 ## Contents
 * [Game engines](#game-engines)
