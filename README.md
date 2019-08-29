@@ -97,14 +97,14 @@ MVC == Model View Controller
 
 
 ## Networking
-|Library                                                             |Doc|             Description                                                                                                                          |
-|--------------------------------------------------------------------|:-:|--------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Anette](https://github.com/Dvergar/Anette)                         |Yes|Simple network library (no UDP).                                                                                                                  |
-|[colyseus-hx](https://github.com/colyseus/colyseus-hx)              |Yes|Multiplayer Game Client.                                                                                                                          |
-|[haxe-simple-peer (js)](https://github.com/melonin/haxe-simple-peer)|hum|Haxe externs for simple-peer.                                                                                                                     |
-|[hxWebSockets](https://github.com/ianharrigan/hxWebSockets)         |hum|Websockets for all haxe platforms.                                                                                                                |
-|Built-in                                                            |Yes|Heaps, OpenFL (HaxeFlixel & co), Kha (Armory).                                                                                                    |
-|*haxe3 or unmaintained* &#x1F648;                                   | _ |[hxnet](https://github.com/MattTuttle/hxnet), [linc_enet](https://github.com/snowkit/linc_enet), [peerhx](https://github.com/haxorplatform/peerhx)|
+|Library                                                             |Doc  |             Description                                                                                                                          |
+|--------------------------------------------------------------------|:-:  |--------------------------------------------------------------------------------------------------------------------------------------------------|
+|[Anette](https://github.com/Dvergar/Anette)                         |Yes  |Simple network library (no UDP).                                                                                                                  |
+|[colyseus-hx](https://github.com/colyseus/colyseus-hx)              |Yes  |Multiplayer Game Client.                                                                                                                          |
+|[haxe-simple-peer (js)](https://github.com/melonin/haxe-simple-peer)|Small|Haxe externs for simple-peer.                                                                                                                     |
+|[hxWebSockets](https://github.com/ianharrigan/hxWebSockets)         |Small|Websockets for all haxe platforms.                                                                                                                |
+|Built-in                                                            |Yes  |Heaps, OpenFL (HaxeFlixel & co), Kha (Armory).                                                                                                    |
+|*haxe3 or unmaintained* &#x1F648;                                   | _   |[hxnet](https://github.com/MattTuttle/hxnet), [linc_enet](https://github.com/snowkit/linc_enet), [peerhx](https://github.com/haxorplatform/peerhx)|
 
 
 ## Serialization and storage
