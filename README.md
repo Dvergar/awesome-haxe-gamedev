@@ -20,7 +20,7 @@ Feel free to update it.
 
 ## Game engines
 
-Those are haxe 4 compatible game engines.
+Those are Haxe 4 compatible game engines.
 
 |Engine                                                       |Target                        |                                                                                                                                                  Description|
 |-------------------------------------------------------------|------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -39,7 +39,7 @@ Those are haxe 4 compatible game engines.
 |Low-level Engine                                   |Target                       |Description                                                              |
 |---------------------------------------------------|-----------------------------|-------------------------------------------------------------------------|
 |[Kha](https://github.com/Kode/Kha)                 |Web, Mobile, Desktop, Console|Ultra-portable, high performance, open source multimedia framework.      |
-|[Lime](https://github.com/openfl/lime)             |Web, Mobile, Desktop         |Lime is a flexible, lightweight layer for haxe cross-platform developers.|
+|[Lime](https://github.com/openfl/lime)             |Web, Mobile, Desktop         |Lime is a flexible, lightweight layer for Haxe cross-platform developers.|
 |[linc_glfw](https://github.com/Sunjammer/linc_glfw)|Desktop                      |GLFW binding (multi-platform library for OpenGL, OpenGL ES and Vulkan).  |
 |[NME](https://github.com/haxenme/nme)              |Web, Mobile, Desktop         |A cross-platform native backend for Haxe projects.                       |
 
@@ -51,7 +51,7 @@ Those are haxe 4 compatible game engines.
 |------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 |[echo](https://github.com/AustinEast/echo/)           |Simple Physics Library.                                                                                             |
 |[haxebullet](https://github.com/armory3d/haxebullet)  |Bullet 3D Physics for Haxe.                                                                                         |
-|[nape-haxe4](https://github.com/HaxeFlixel/nape-haxe4)|Haxe/AS3 Physics Engine (the original haxe3 version of nape can be found [here](https://github.com/deltaluca/nape)).|
+|[nape-haxe4](https://github.com/HaxeFlixel/nape-haxe4)|Haxe/AS3 Physics Engine (the original Haxe3 version of nape can be found [here](https://github.com/deltaluca/nape)).|
 
 
 
@@ -78,7 +78,7 @@ MVC == Model View Controller
 |[Anette](https://github.com/Dvergar/Anette)                         |Simple network library (no UDP).                                                                                                                  |
 |[colyseus-hx](https://github.com/colyseus/colyseus-hx)              |Multiplayer Game Client.                                                                                                                          |
 |[haxe-simple-peer (js)](https://github.com/melonin/haxe-simple-peer)|Haxe externs for simple-peer.                                                                                                                     |
-|[hxWebSockets](https://github.com/ianharrigan/hxWebSockets)         |Websockets for all haxe platforms.                                                                                                                |
+|[hxWebSockets](https://github.com/ianharrigan/hxWebSockets)         |Websockets for all Haxe platforms.                                                                                                                |
 |Built-in                                                            |Heaps, OpenFL (HaxeFlixel & co), Kha (Armory).                                                                                                    |
 
 
