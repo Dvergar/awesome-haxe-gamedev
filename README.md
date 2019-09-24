@@ -22,36 +22,36 @@ Feel free to update it.
 
 Those are haxe 4 compatible game engines.
 
-|Engine                                                       |Target                        |Doc|                                                                                                                                                  Description|
-|-------------------------------------------------------------|------------------------------|:-:|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Armory (Kha)](https://github.com/armory3d/armory)           |Web, Mobile, Desktop, Consoles|Yes|Armory is an open-source 3D game engine with full Blender integration.                                                                                       |
-|[Away3D](https://github.com/openfl/away3d)                   |Web, Mobile, Desktop          |Yes|An open source, real-time 3D engine for OpenFL.                                                                                                              |
-|[HaxeFlixel (OpenFL)](https://github.com/HaxeFlixel/flixel)  |Web, Mobile, Desktop, Consoles|Yes|Free, cross-platform 2D game engine powered by OpenFL.                                                                                                       |
-|[Haxegon (OpenFL)](https://github.com/haxegon/haxegon)       |Web, Mobile, Desktop, Consoles|Yes|A programming library for beginners. Powered by OpenFL and Starling.                                                                                         |
-|[Heaps](https://github.com/HeapsIO/heaps)                    |Web, Mobile, Desktop, Consoles|Yes|High Performance Game Framework.                                                                                                                             |
-|[hxdefold](https://github.com/hxdefold/hxdefold)             |Web, Mobile, Desktop          |Yes|Haxe/Lua externs for Defold game engine.                                                                                                                     |
-|[OpenFL](https://github.com/openfl/openfl)                   |Web, Mobile, Desktop, Consoles|Yes|Interactive game and app development library.                                                                                                                |
-|[Starling](https://github.com/openfl/starling)               |Web, Mobile, Desktop          |Yes|The "Cross-Platform Game Engine", a popular Stage3D framework.                                                                                               |
-|[Stencyl (OpenFL)](https://github.com/Stencyl/stencyl-engine)|Web, Mobile, Desktop          |Yes|Create Flash, HTML5, iOS, Android, and desktop games with no code with Stencyl.                                                                              |
-|[unreal.hx](https://github.com/proletariatgames/unreal.hx)   |Web, Mobile, Desktop, Consoles|Yes|Unreal.hx: Haxe Integration for Unreal.                                                                                                                      |
+|Engine                                                       |Target                        |                                                                                                                                                  Description|
+|-------------------------------------------------------------|------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|[Armory (Kha)](https://github.com/armory3d/armory)           |Web, Mobile, Desktop, Consoles|Armory is an open-source 3D game engine with full Blender integration.                                                                                       |
+|[Away3D](https://github.com/openfl/away3d)                   |Web, Mobile, Desktop          |An open source, real-time 3D engine for OpenFL.                                                                                                              |
+|[HaxeFlixel (OpenFL)](https://github.com/HaxeFlixel/flixel)  |Web, Mobile, Desktop, Consoles|Free, cross-platform 2D game engine powered by OpenFL.                                                                                                       |
+|[Haxegon (OpenFL)](https://github.com/haxegon/haxegon)       |Web, Mobile, Desktop, Consoles|A programming library for beginners. Powered by OpenFL and Starling.                                                                                         |
+|[Heaps](https://github.com/HeapsIO/heaps)                    |Web, Mobile, Desktop, Consoles|High Performance Game Framework.                                                                                                                             |
+|[hxdefold](https://github.com/hxdefold/hxdefold)             |Web, Mobile, Desktop          |Haxe/Lua externs for Defold game engine.                                                                                                                     |
+|[OpenFL](https://github.com/openfl/openfl)                   |Web, Mobile, Desktop, Consoles|Interactive game and app development library.                                                                                                                |
+|[Starling](https://github.com/openfl/starling)               |Web, Mobile, Desktop          |The "Cross-Platform Game Engine", a popular Stage3D framework.                                                                                               |
+|[Stencyl (OpenFL)](https://github.com/Stencyl/stencyl-engine)|Web, Mobile, Desktop          |Create Flash, HTML5, iOS, Android, and desktop games with no code with Stencyl.                                                                              |
+|[unreal.hx](https://github.com/proletariatgames/unreal.hx)   |Web, Mobile, Desktop, Consoles|Unreal.hx: Haxe Integration for Unreal.                                                                                                                      |
 
 
-|Low-level Engine                                   |Target                       |Doc|Description                                                              |
-|---------------------------------------------------|-----------------------------|:-:|-------------------------------------------------------------------------|
-|[Kha](https://github.com/Kode/Kha)                 |Web, Mobile, Desktop, Console|Yes|Ultra-portable, high performance, open source multimedia framework.      |
-|[Lime](https://github.com/openfl/lime)             |Web, Mobile, Desktop         |Yes|Lime is a flexible, lightweight layer for haxe cross-platform developers.|
-|[linc_glfw](https://github.com/Sunjammer/linc_glfw)|Desktop                      |Yes|GLFW binding (multi-platform library for OpenGL, OpenGL ES and Vulkan).  |
-|[NME](https://github.com/haxenme/nme)              |Web, Mobile, Desktop         |No |A cross-platform native backend for Haxe projects.                       |
+|Low-level Engine                                   |Target                       |Description                                                              |
+|---------------------------------------------------|-----------------------------|-------------------------------------------------------------------------|
+|[Kha](https://github.com/Kode/Kha)                 |Web, Mobile, Desktop, Console|Ultra-portable, high performance, open source multimedia framework.      |
+|[Lime](https://github.com/openfl/lime)             |Web, Mobile, Desktop         |Lime is a flexible, lightweight layer for haxe cross-platform developers.|
+|[linc_glfw](https://github.com/Sunjammer/linc_glfw)|Desktop                      |GLFW binding (multi-platform library for OpenGL, OpenGL ES and Vulkan).  |
+|[NME](https://github.com/haxenme/nme)              |Web, Mobile, Desktop         |A cross-platform native backend for Haxe projects.                       |
 
 
 
 
 ## Physics
-|Library                                               |Doc|                                                                                                         Description|
-|------------------------------------------------------|:-:|--------------------------------------------------------------------------------------------------------------------|
-|[echo](https://github.com/AustinEast/echo/)           |Yes|Simple Physics Library.                                                                                             |
-|[haxebullet](https://github.com/armory3d/haxebullet)  |Yes|Bullet 3D Physics for Haxe.                                                                                         |
-|[nape-haxe4](https://github.com/HaxeFlixel/nape-haxe4)|Yes|Haxe/AS3 Physics Engine (the original haxe3 version of nape can be found [here](https://github.com/deltaluca/nape)).|
+|Library                                               |                                                                                                         Description|
+|------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+|[echo](https://github.com/AustinEast/echo/)           |Simple Physics Library.                                                                                             |
+|[haxebullet](https://github.com/armory3d/haxebullet)  |Bullet 3D Physics for Haxe.                                                                                         |
+|[nape-haxe4](https://github.com/HaxeFlixel/nape-haxe4)|Haxe/AS3 Physics Engine (the original haxe3 version of nape can be found [here](https://github.com/deltaluca/nape)).|
 
 
 
@@ -64,38 +64,31 @@ FSM == Finite State Machine
 MVC == Model View Controller
 ```
 
-|Library                                            |Architecture|Doc  |                                        Description                                                                                                                                                                                                                                                                                                                      |
-|---------------------------------------------------|------------|:---:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[awe6](https://github.com/hypersurge/awe6)         |IoC, EC     |Yes  |The inverted game framework, is a development tool focused on Future Proofing.                                                                                                                                                                                                                                                                                           |
-|[ecx](https://github.com/eliasku/ecx)              |ECS         |Yes  |ECX is Entity Component System framework.                                                                                                                                                                                                                                                                                                                                |
-|[hexMachina](https://github.com/DoclerLabs/hexCore)|MVC         |Yes  |A powerful multi-modular MVC framework.                                                                                                                                                                                                                                                                                                                                  |
-|[OSIS](https://github.com/Dvergar/OSIS)            |ECS         |Yes  |Entity Component System architecture with networking support.                                                                                                                                                                                                                                                                                                            |
-
-
-
-## Game hosts API
-|Library                                               |Doc|                Description                                                                                                                                                                                                                                                 |
-|------------------------------------------------------|:-:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[SteamWrap](https://github.com/larsiusprime/SteamWrap)|Yes| Haxe native extension for the Steam API.                                                                                                                                                                                                                                   |
+|Library                                            |Architecture|                                        Description                                                                                                                                                                                                                                                                                                                      |
+|---------------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|[awe6](https://github.com/hypersurge/awe6)         |IoC, EC     |The inverted game framework, is a development tool focused on Future Proofing.                                                                                                                                                                                                                                                                                           |
+|[ecx](https://github.com/eliasku/ecx)              |ECS         |ECX is Entity Component System framework.                                                                                                                                                                                                                                                                                                                                |
+|[hexMachina](https://github.com/DoclerLabs/hexCore)|MVC         |A powerful multi-modular MVC framework.                                                                                                                                                                                                                                                                                                                                  |
+|[OSIS](https://github.com/Dvergar/OSIS)            |ECS         |Entity Component System architecture with networking support.                                                                                                                                                                                                                                                                                                            |
 
 
 ## Networking
-|Library                                                             |Doc  |             Description                                                                                                                          |
-|--------------------------------------------------------------------|:-:  |--------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Anette](https://github.com/Dvergar/Anette)                         |Yes  |Simple network library (no UDP).                                                                                                                  |
-|[colyseus-hx](https://github.com/colyseus/colyseus-hx)              |Yes  |Multiplayer Game Client.                                                                                                                          |
-|[haxe-simple-peer (js)](https://github.com/melonin/haxe-simple-peer)|Small|Haxe externs for simple-peer.                                                                                                                     |
-|[hxWebSockets](https://github.com/ianharrigan/hxWebSockets)         |Small|Websockets for all haxe platforms.                                                                                                                |
-|Built-in                                                            |Yes  |Heaps, OpenFL (HaxeFlixel & co), Kha (Armory).                                                                                                    |
+|Library                                                             |             Description                                                                                                                          |
+|--------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+|[Anette](https://github.com/Dvergar/Anette)                         |Simple network library (no UDP).                                                                                                                  |
+|[colyseus-hx](https://github.com/colyseus/colyseus-hx)              |Multiplayer Game Client.                                                                                                                          |
+|[haxe-simple-peer (js)](https://github.com/melonin/haxe-simple-peer)|Haxe externs for simple-peer.                                                                                                                     |
+|[hxWebSockets](https://github.com/ianharrigan/hxWebSockets)         |Websockets for all haxe platforms.                                                                                                                |
+|Built-in                                                            |Heaps, OpenFL (HaxeFlixel & co), Kha (Armory).                                                                                                    |
 
 
 ## Serialization and storage
-|Library                                          |Doc|        Description                                                                                                                                                                                                                      |
-|-------------------------------------------------|:-:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Bits](https://github.com/RealyUniqueName/Bits)  |Yes|Binary bit flags with unlimited amount of bits.                                                                                                                                                                                          |
-|[CastleDB](https://github.com/ncannasse/castle)  |Yes|CastleDB is a structured static database easing collaboration.                                                                                                                                                                           |
-|[hxbit](https://github.com/ncannasse/hxbit)      |Yes|HxBit is a binary serialization and network synchronization library  .                                                                                                                                                                   |
-|[PODStream](https://github.com/Dvergar/PODStream)|Yes|POD serializer.                                                                                                                                                                                                                          |
+|Library                                          |        Description                                                                                                                                                                                                                      |
+|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|[Bits](https://github.com/RealyUniqueName/Bits)  |Binary bit flags with unlimited amount of bits.                                                                                                                                                                                          |
+|[CastleDB](https://github.com/ncannasse/castle)  |CastleDB is a structured static database easing collaboration.                                                                                                                                                                           |
+|[hxbit](https://github.com/ncannasse/hxbit)      |HxBit is a binary serialization and network synchronization library  .                                                                                                                                                                   |
+|[PODStream](https://github.com/Dvergar/PODStream)|POD serializer.                                                                                                                                                                                                                          |
 
 
 
