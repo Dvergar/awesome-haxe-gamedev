@@ -98,6 +98,7 @@ MVC == Model View Controller
 |**RELEASED**                                                               |                    |                   |                                              |
 |[Dead Cells](https://dead-cells.com/)                                      |Desktop, Consoles   |Heaps              |![Screenshot](images/dead-cells.jpg)          |
 |[Defender's Quest](http://www.defendersquest.com/)                         |Desktop, Consoles   |HaxeFlixel (OpenFL)|![Screenshot](images/defenders-quest.jpg)     |
+|[Dicey Dungeons](http://diceydungeons.com/)                                |Desktop             |Haxegon (OpenFL)   |![Screenshot](images/dicey-dungeons.jpg)      |
 |[Evoland](http://evoland.shirogames.com/)                                  |Desktop, Mobile     |Heaps              |![Screenshot](images/evoland.jpg)             |
 |[Northgard](http://northgard.net/)                                         |Desktop             |Heaps              |![Screenshot](images/northgard.jpg)           |
 |[Papers, Please](http://papersplea.se/)                                    |Desktop, iOS, PsVita|OpenFL             |![Screenshot](images/papers-please.jpg)       |
@@ -106,7 +107,6 @@ MVC == Model View Controller
 |[The Westport Independent](http://www.doublezeroonezero.com/westport.html) |Desktop, Mobile     |Luxe               |![Screenshot](images/westport-independent.jpg)|
 |**IN DEVELOPMENT**                                                         |                    |                   |                                              |
 |[Darksburg](https://store.steampowered.com/app/939100/Darksburg/)          |Desktop, ?          |Heaps              |![Screenshot](images/darksburg.jpg)           |
-|[Dicey Dungeons](http://diceydungeons.com/)                                |Desktop, ?          |Haxegon (OpenFL)   |![Screenshot](images/dicey-dungeons.jpg)      |
 |[Frontier Story](https://frontierstorygame.com/)                           |Desktop             |Heaps              |![Screenshot](images/frontier-story.jpg)      |
 
 More showcase :
