@@ -14,6 +14,7 @@ Feel free to update it.
 * [Serialization and storage](#serialization-and-storage)
 * [Games](#games)
 * [Miscellaneous](#miscellaneous)
+* [Jobs](#jobs)
 * [Articles](#articles)
 * [Other haxe lists](#other-haxe-lists)
 
@@ -117,7 +118,6 @@ More showcase :
 * [Kha showcase](https://github.com/Kode/Kha/wiki/Games-Built-With-Kha)
 
 ## Miscellaneous
-
 |Type                 |Library                                                                    | Description                                                                                                                                                                     |
 |---------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |Animation            |[spine-hx](https://github.com/jeremyfa/spine-hx)                           |Spine runtime for Haxe automatically converted from the official Java/libgdx runtime. For Heaps: [Heaps-Spine](https://github.com/Beeblerox/Heaps-Spine).                        |
@@ -147,6 +147,15 @@ More showcase :
 |UI                   |[domkit](https://github.com/ncannasse/domkit)                              |CSS Components based strictly typed UI framework.                                                                                                                                |
 |_                    |[flixel-ui](https://github.com/HaxeFlixel/flixel-ui)                       |GUI library for HaxeFlixel.                                                                                                                                                      |
 |_                    |[HaxeUI](http://haxeui.org/)                                               |UI library with multiple framework backends (HTML5, Kha, OpenFL, PixiJS, WxWidgets, and a number of others as works in progress)                                                 |                                                                                                                                                   |
+
+## Jobs
+* [Squidly](https://twitter.com/squuuidly/status/1243925472121151488) - Opened up [a bounties page](https://github.com/chosencharacters/squidBounties) for HaxeFlixel features and one of the them is [already claimed](https://github.com/chosencharacters/squidBounties/issues/2).
+* [Kaleido Games](https://twitter.com/KaleidoGames) - Bounty to make OpenFL work with [(FNA/UWP)](https://community.openfl.org/t/bounty-to-make-openfl-work-with-fna-uwp-300usd-150usd/12328).
+* [NX Studio](https://studionx.ru/) - Looking for [a Haxe programmer](https://hh.ru/vacancy/35432606) to work on their game called "Throne Rush". _(Moscow, Russia)_
+* [Shiro Games](https://twitter.com/ncannasse/status/1166704326485651457) - Recruiting for different roles to expand their studio and work on upcoming, exciting projects!
+* Lars Doucet's list of various [open bounties](https://github.com/larsiusprime/larsBounties/issues).
+
+_Source: haxe.io_
 
 ## Articles
 * [Flash is dead, long live OpenFL!](http://gamasutra.com/blogs/LarsDoucet/20140318/213407/Flash_is_dead_long_live_OpenFL.php)
