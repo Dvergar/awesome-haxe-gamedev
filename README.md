@@ -17,6 +17,7 @@ Feel free to update it.
 * [Jobs](#jobs)
 * [Articles](#articles)
 * [Other haxe lists](#other-haxe-lists)
+* [License](#license)
 
 ## Game engines
 
