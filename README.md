@@ -103,6 +103,7 @@ MVC == Model View Controller
 |[Papers, Please](http://papersplea.se/)                                    |Desktop, iOS, PsVita|OpenFL             |![Screenshot](images/papers-please.jpg)       |
 |[Pocket Kingdom](https://store.steampowered.com/app/462620/Pocket_Kingdom/)|Desktop             |HaxePunk (OpenFL)  |![Screenshot](images/pocket-kingdom.jpg)      |
 |[rymdkapsel](https://rymdkapsel.com/)                                      |Desktop, Mobile     |OpenFL             |![Screenshot](images/rymdkapsel.jpg)          |
+|[Spellbreak](https://playspellbreak.com/)                                  |PC, PS, Xbox, Switch|unreal.hx          |![Screenshot](images/spellbreak.jpg)          |
 |[The Westport Independent](http://www.doublezeroonezero.com/westport.html) |Desktop, Mobile     |Luxe               |![Screenshot](images/westport-independent.jpg)|
 |**IN DEVELOPMENT**                                                         |                    |                   |                                              |
 |[Darksburg](https://store.steampowered.com/app/939100/Darksburg/)          |Desktop, ?          |Heaps              |![Screenshot](images/darksburg.jpg)           |
