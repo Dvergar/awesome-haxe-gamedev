@@ -162,5 +162,5 @@ More showcase :
 
 ## Other haxe lists
 * [awesome haxe](https://github.com/nadako/awesome-haxe)
-* [awesome snowkit](https://github.com/anissen/awesome-snowkit)
+* [awesome snowkit](https://github.com/anissen/awesome-snowkit)x
 * [awesome haxe js](https://github.com/MatthijsKamstra/awesome-haxe-js)
