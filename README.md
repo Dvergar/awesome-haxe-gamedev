@@ -108,6 +108,7 @@ MVC == Model View Controller
 |[The Westport Independent](http://www.doublezeroonezero.com/westport.html) |Desktop, Mobile     |Luxe               |![Screenshot](images/westport-independent.jpg)|
 |**IN DEVELOPMENT**                                                         |                    |                   |                                              |
 |[Frontier Story](https://twitter.com/jmw327)                               |Desktop             |Heaps              |![Screenshot](images/frontier-story.jpg)      |
+|[Friday Night Funkin'](https://ninja-muffin24.itch.io/funkin)              |Desktop             |HaxeFlixel (OpenFL)|![Screenshot](images/friday-night-funkin.jpg) |
 
 More showcase :
 * [OpenFL showcase](https://www.openfl.org/showcase)
