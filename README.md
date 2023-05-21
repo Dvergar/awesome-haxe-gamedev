@@ -33,6 +33,7 @@ Those are Haxe 4 compatible game engines.
 |[Starling](https://github.com/openfl/starling)               |Web, Mobile, Desktop          |The "Cross-Platform Game Engine", a popular Stage3D framework.      |
 |[Stencyl (OpenFL)](https://github.com/Stencyl/stencyl-engine)|Web, Mobile, Desktop          |Create Flash, HTML5, iOS, Android, and desktop games with no code.  |
 |[unreal.hx](https://github.com/proletariatgames/unreal.hx)   |Web, Mobile, Desktop, Consoles|Haxe Integration for Unreal.                                        |
+|[HxGodot (Godot 4.0)](https://github.com/HxGodot/hxgodot)    |Web, Mobile, Desktop, Consoles|A Haxe GDExtension for Godot 4                                      |
 
 
 |Low-level Engine                                   |Target                       |Description                                                            |
