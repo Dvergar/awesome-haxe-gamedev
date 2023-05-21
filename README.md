@@ -109,7 +109,7 @@ MVC == Model View Controller
 |[The Westport Independent](http://www.doublezeroonezero.com/westport.html)   |Desktop, Mobile     |Luxe               |![Screenshot](images/westport-independent.jpg)|
 |**IN DEVELOPMENT**                                                           |                    |                   |                                              |
 |[Frontier Story](https://twitter.com/jmw327)                                 |Desktop             |Heaps              |![Screenshot](images/frontier-story.jpg)      |
-|[Squash The Creeps]((https://github.com/HxGodot/squash-the-creeps-3d-hxgodot)|Desktop             |HxGodot            |![Screenshot](images/squash-the-creeps.jpg)   |
+|[Squash The Creeps](https://github.com/HxGodot/squash-the-creeps-3d-hxgodot)|Desktop             |HxGodot            |![Screenshot](images/squash-the-creeps.jpg)   |
 
 More showcase :
 * [OpenFL showcase](https://www.openfl.org/showcase)
