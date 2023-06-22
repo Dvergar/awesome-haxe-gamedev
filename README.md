@@ -99,6 +99,7 @@ MVC == Model View Controller
 |[Darksburg](https://store.steampowered.com/app/939100/Darksburg/)           |Desktop             |Heaps              |![Screenshot](images/darksburg.jpg)           |
 |[Dead Cells](https://dead-cells.com/)                                       |Desktop, Consoles   |Heaps              |![Screenshot](images/dead-cells.jpg)          |
 |[Defender's Quest](http://www.defendersquest.com/)                          |Desktop, Consoles   |HaxeFlixel (OpenFL)|![Screenshot](images/defenders-quest.jpg)     |
+|[Defender's Quest 2](https://store.steampowered.com/app/252190/Defenders_Quest_2_Mists_of_Ruin/)|Desktop|HaxeFlixel (OpenFL)|![Screenshot](images/defenders-quest-2.jpg)     |
 |[Dicey Dungeons](http://diceydungeons.com/)                                 |Desktop, Consoles   |Haxegon (OpenFL)   |![Screenshot](images/dicey-dungeons.jpg)      |
 |[Evoland](http://evoland.shirogames.com/)                                   |Desktop, Mobile     |Heaps              |![Screenshot](images/evoland.jpg)             |
 |[Northgard](http://northgard.net/)                                          |Desktop             |Heaps              |![Screenshot](images/northgard.jpg)           |
