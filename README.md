@@ -25,6 +25,7 @@ Those are Haxe 4 compatible game engines.
 |-------------------------------------------------------------|------------------------------|--------------------------------------------------------------------|
 |[Armory (Kha)](https://github.com/armory3d/armory)           |Web, Mobile, Desktop, Consoles|An open-source 3D game engine with full Blender integration.        |
 |[Away3D](https://github.com/openfl/away3d)                   |Web, Mobile, Desktop          |An open source, real-time 3D engine for OpenFL.                     |
+|[ceramic](https://github.com/ceramic-engine/ceramic)         |Web, Mobile, Desktop, Unity   |Cross-platform 2D framework.                                        |
 |[HaxeFlixel (OpenFL)](https://github.com/HaxeFlixel/flixel)  |Web, Mobile, Desktop, Consoles|Free, cross-platform 2D game engine powered by OpenFL.              |
 |[Haxegon (OpenFL)](https://github.com/haxegon/haxegon)       |Web, Mobile, Desktop, Consoles|A programming library for beginners. Powered by OpenFL and Starling.|
 |[Heaps](https://github.com/HeapsIO/heaps)                    |Web, Mobile, Desktop, Consoles|High Performance Game Framework.                                    |
