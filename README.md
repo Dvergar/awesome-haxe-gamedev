@@ -139,6 +139,7 @@ More showcase :
 |Audio                |[sfxr-hx](https://github.com/jobf/sfxr-hx)                                 |Pure haxe implementation of Sfxr.|
 |Color manipulation   |[nxColor](https://github.com/oscarcs/nxColor)                              |Color manipulation library.|
 |Collision            |[differ](https://github.com/snowkit/differ)                                |A separation axis theorem collision library.|
+|Computer Vision      |[Vision](https://github.com/ShaharMS/Vision)                               |Cross platform computer vision library.|
 |Data structures      |[polygonal-ds](https://github.com/polygonal/ds)                            |Data structures for games.|
 |Editor               |[flixel-studio](https://github.com/Dovyski/flixel-studio)                  |In-game editor for HaxeFlixel.|
 |Helpers              |[deepnightLibs](https://github.com/deepnight/deepnightLibs)                |General gamedev purpose libs.|
