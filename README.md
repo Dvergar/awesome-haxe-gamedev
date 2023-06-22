@@ -156,6 +156,7 @@ More showcase :
 |UI                   |[domkit](https://github.com/ncannasse/domkit)                              |CSS Components based strictly typed UI framework.                                                                                                                                |
 |_                    |[flixel-ui](https://github.com/HaxeFlixel/flixel-ui)                       |GUI library for HaxeFlixel.                                                                                                                                                      |
 |_                    |[HaxeUI](http://haxeui.org/)                                               |UI library with multiple framework backends (HTML5, Kha, OpenFL, PixiJS, WxWidgets, and a number of others as works in progress)|
+|_                    |[Feathers UI](http://haxeui.org/)                                          |Cross-platform graphical user interface components for creative frontend projects|
 | Video               |[hxCodec](https://github.com/polybiusproxy/hxCodec)                        |Adds native video playback on HaxeFlixel and OpenFL|
 
 ## Articles
