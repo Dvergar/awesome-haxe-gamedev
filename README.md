@@ -149,6 +149,7 @@ More showcase :
 |_                    |Heaps                                                                      |Built-in parser for Tiled.|
 |_                    |HaxeFlixel                                                                 |Parser for Tiled & Ogmo.|
 |_                    |[LEd](https://github.com/deepnight/led-haxe-api)                           |2D level editor with a typed compile time loader.|
+|_                    |[TiledHX](https://github.com/yanrishatum/tiledhx)                          |A comprehensive modern Tiled parser.|
 |Math helpers         |[hxmath](https://github.com/tbrosman/hxmath)                               |A game-oriented math library.|
 |_                    |[haxe-glm](https://github.com/hamaluik/haxe-glm)                           |A toolset for using 2, 3, and 4 dimensional vectors and matrices, as well as quaternions.|
 |_                    |[hx-vector2d](https://github.com/markknol/hx-vector2d)                     |Worlds most complete Vector2d / Point class. With operator overloading.|
