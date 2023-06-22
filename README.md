@@ -42,6 +42,7 @@ Those are Haxe 4 compatible game engines.
 |[Lime](https://github.com/openfl/lime)             |Web, Mobile, Desktop         |A flexible, lightweight layer for Haxe cross-platform developers.      |
 |[linc_glfw](https://github.com/Sunjammer/linc_glfw)|Desktop                      |GLFW binding (multi-platform library for OpenGL, OpenGL ES and Vulkan).|
 |[NME](https://github.com/haxenme/nme)              |Web, Mobile, Desktop         |A cross-platform native backend for Haxe projects.                     |
+|[3DSHaxe](https://github.com/haxenme/nme)          |3DS                          |Make 3ds homebrew!                                                     |
 
 
 
