@@ -33,6 +33,7 @@ Those are Haxe 4 compatible game engines.
 |[Starling](https://github.com/openfl/starling)               |Web, Mobile, Desktop          |The "Cross-Platform Game Engine", a popular Stage3D framework.      |
 |[Stencyl (OpenFL)](https://github.com/Stencyl/stencyl-engine)|Web, Mobile, Desktop          |Create Flash, HTML5, iOS, Android, and desktop games with no code.  |
 |[unreal.hx](https://github.com/proletariatgames/unreal.hx)   |Web, Mobile, Desktop, Consoles|Haxe Integration for Unreal.                                        |
+|[HxGodot (Godot 4.0)](https://github.com/HxGodot/hxgodot)    |Web, Mobile, Desktop, Consoles|A Haxe GDExtension for Godot 4                                      |
 
 
 |Low-level Engine                                   |Target                       |Description                                                            |
@@ -92,22 +93,23 @@ MVC == Model View Controller
 
 
 ## Games
-|Game                                                                       |Platform            |Engine             |Screenshot                                    |
-|---------------------------------------------------------------------------|--------------------|-------------------|----------------------------------------------|
-|**RELEASED**                                                               |                    |                   |                                              |
-|[Darksburg](https://store.steampowered.com/app/939100/Darksburg/)          |Desktop             |Heaps              |![Screenshot](images/darksburg.jpg)           |
-|[Dead Cells](https://dead-cells.com/)                                      |Desktop, Consoles   |Heaps              |![Screenshot](images/dead-cells.jpg)          |
-|[Defender's Quest](http://www.defendersquest.com/)                         |Desktop, Consoles   |HaxeFlixel (OpenFL)|![Screenshot](images/defenders-quest.jpg)     |
-|[Dicey Dungeons](http://diceydungeons.com/)                                |Desktop, Consoles   |Haxegon (OpenFL)   |![Screenshot](images/dicey-dungeons.jpg)      |
-|[Evoland](http://evoland.shirogames.com/)                                  |Desktop, Mobile     |Heaps              |![Screenshot](images/evoland.jpg)             |
-|[Northgard](http://northgard.net/)                                         |Desktop             |Heaps              |![Screenshot](images/northgard.jpg)           |
-|[Papers, Please](http://papersplea.se/)                                    |Desktop, iOS, PsVita|OpenFL             |![Screenshot](images/papers-please.jpg)       |
-|[Pocket Kingdom](https://store.steampowered.com/app/462620/Pocket_Kingdom/)|Desktop             |HaxePunk (OpenFL)  |![Screenshot](images/pocket-kingdom.jpg)      |
-|[rymdkapsel](https://rymdkapsel.com/)                                      |Desktop, Mobile     |OpenFL             |![Screenshot](images/rymdkapsel.jpg)          |
-|[Spellbreak](https://playspellbreak.com/)                                  |PC, PS, Xbox, Switch|unreal.hx          |![Screenshot](images/spellbreak.jpg)          |
-|[The Westport Independent](http://www.doublezeroonezero.com/westport.html) |Desktop, Mobile     |Luxe               |![Screenshot](images/westport-independent.jpg)|
-|**IN DEVELOPMENT**                                                         |                    |                   |                                              |
-|[Frontier Story](https://twitter.com/jmw327)                               |Desktop             |Heaps              |![Screenshot](images/frontier-story.jpg)      |
+|Game                                                                        |Platform            |Engine             |Screenshot                                    |
+|----------------------------------------------------------------------------|--------------------|-------------------|----------------------------------------------|
+|**RELEASED**                                                                |                    |                   |                                              |
+|[Darksburg](https://store.steampowered.com/app/939100/Darksburg/)           |Desktop             |Heaps              |![Screenshot](images/darksburg.jpg)           |
+|[Dead Cells](https://dead-cells.com/)                                       |Desktop, Consoles   |Heaps              |![Screenshot](images/dead-cells.jpg)          |
+|[Defender's Quest](http://www.defendersquest.com/)                          |Desktop, Consoles   |HaxeFlixel (OpenFL)|![Screenshot](images/defenders-quest.jpg)     |
+|[Dicey Dungeons](http://diceydungeons.com/)                                 |Desktop, Consoles   |Haxegon (OpenFL)   |![Screenshot](images/dicey-dungeons.jpg)      |
+|[Evoland](http://evoland.shirogames.com/)                                   |Desktop, Mobile     |Heaps              |![Screenshot](images/evoland.jpg)             |
+|[Northgard](http://northgard.net/)                                          |Desktop             |Heaps              |![Screenshot](images/northgard.jpg)           |
+|[Papers, Please](http://papersplea.se/)                                     |Desktop, iOS, PsVita|OpenFL             |![Screenshot](images/papers-please.jpg)       |
+|[Pocket Kingdom](https://store.steampowered.com/app/462620/Pocket_Kingdom/) |Desktop             |HaxePunk (OpenFL)  |![Screenshot](images/pocket-kingdom.jpg)      |
+|[rymdkapsel](https://rymdkapsel.com/)                                       |Desktop, Mobile     |OpenFL             |![Screenshot](images/rymdkapsel.jpg)          |
+|[Spellbreak](https://playspellbreak.com/)                                   |PC, PS, Xbox, Switch|unreal.hx          |![Screenshot](images/spellbreak.jpg)          |
+|[The Westport Independent](http://www.doublezeroonezero.com/westport.html)  |Desktop, Mobile     |Luxe               |![Screenshot](images/westport-independent.jpg)|
+|**IN DEVELOPMENT**                                                          |                    |                   |                                              |
+|[Frontier Story](https://twitter.com/jmw327)                                |Desktop             |Heaps              |![Screenshot](images/frontier-story.jpg)      |
+|[Squash The Creeps](https://github.com/HxGodot/squash-the-creeps-3d-hxgodot)|Desktop             |HxGodot            |![Screenshot](images/squash-the-creeps.jpg)   |
 
 More showcase :
 * [OpenFL showcase](https://www.openfl.org/showcase)
