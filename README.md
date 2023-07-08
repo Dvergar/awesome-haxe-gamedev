@@ -21,24 +21,24 @@ Feel free to update it.
 ## Game engines
 
 Those are Haxe 4 compatible game engines
-* [Armory (Kha)](https://github.com/armory3d/armory) - An open-source THIS IS A TEST 3D game engine with full Blender integration _(Web, Mobile, Desktop, Consoles)_.
-* [Away3D](https://github.com/openfl/away3d) - An open source, real-time 3D engine for OpenFL _(Web, Mobile, Desktop)_.
-* [ceramic](https://github.com/ceramic-engine/ceramic) - Cross-platform 2D framework _(Web, Mobile, Desktop, Unity)_.
-* [HaxeFlixel (OpenFL)](https://github.com/HaxeFlixel/flixel) - Free, cross-platform 2D game engine powered by OpenFL _(Web, Mobile, Desktop, Consoles)_.
-* [Haxegon (OpenFL)](https://github.com/haxegon/haxegon) - A programming library for beginners. Powered by OpenFL and Starling _(Web, Mobile, Desktop, Consoles)_.
-* [Heaps](https://github.com/HeapsIO/heaps) - High Performance Game Framework _(Web, Mobile, Desktop, Consoles)_.
-* [hxdefold](https://github.com/hxdefold/hxdefold) - Haxe/Lua externs for Defold game engine _(Web, Mobile, Desktop)_.
-* [OpenFL](https://github.com/openfl/openfl) - Interactive game and app development library _(Web, Mobile, Desktop, Consoles)_.
-* [Starling](https://github.com/openfl/starling) - The "Cross-Platform Game Engine", a popular Stage3D framework _(Web, Mobile, Desktop)_.
-* [Stencyl (OpenFL)](https://github.com/Stencyl/stencyl-engine) - Create Flash, HTML5, iOS, Android, and desktop games with no code _(Mobile, Desktop)_.
-* [unreal.hx](https://github.com/proletariatgames/unreal.hx) - Haxe Integration for Unreal _(Web, Mobile, Desktop, Consoles)_.
-* [HxGodot (Godot 4.0)](https://github.com/HxGodot/hxgodot) - A Haxe GDExtension for Godot 4 _(Web, Mobile, Desktop, Consoles)_.
+* [Armory (Kha)](https://github.com/armory3d/armory) - An open-source THIS IS A TEST 3D game engine with full Blender integration (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [Away3D](https://github.com/openfl/away3d) - An open source, real-time 3D engine for OpenFL (`Web`, `Mobile`, `Desktop`).
+* [ceramic](https://github.com/ceramic-engine/ceramic) - Cross-platform 2D framework (`Web`, `Mobile`, `Desktop`, `Unity`).
+* [HaxeFlixel (OpenFL)](https://github.com/HaxeFlixel/flixel) - Free, cross-platform 2D game engine powered by OpenFL (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [Haxegon (OpenFL)](https://github.com/haxegon/haxegon) - A programming library for beginners. Powered by OpenFL and Starling (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [Heaps](https://github.com/HeapsIO/heaps) - High Performance Game Framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [hxdefold](https://github.com/hxdefold/hxdefold) - Haxe/Lua externs for Defold game engine (`Web`, `Mobile`, `Desktop`).
+* [OpenFL](https://github.com/openfl/openfl) - Interactive game and app development library (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [Starling](https://github.com/openfl/starling) - The "Cross-Platform Game Engine", a popular Stage3D framework (`Web`, `Mobile`, `Desktop`).
+* [Stencyl (OpenFL)](https://github.com/Stencyl/stencyl-engine) - Create Flash, HTML5, iOS, Android, and desktop games with no code (`Mobile`, `Desktop`).
+* [unreal.hx](https://github.com/proletariatgames/unreal.hx) - Haxe Integration for Unreal (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [HxGodot (Godot 4.0)](https://github.com/HxGodot/hxgodot) - A Haxe GDExtension for Godot 4 (`Web`, `Mobile`, `Desktop`, `Consoles`).
 
 ## Low-level Engine
-* [Kha](https://github.com/Kode/Kha) - Ultra-portable, high performance, open source multimedia framework _(Web, Mobile, Desktop, Consoles)_.    
-* [Lime](https://github.com/openfl/lime) - A flexible, lightweight layer for Haxe cross-platform developers _(Web, Mobile, Desktop)_.      
+* [Kha](https://github.com/Kode/Kha) - Ultra-portable, high performance, open source multimedia framework (`Web`, `Mobile`, `Desktop`, `Consoles`).    
+* [Lime](https://github.com/openfl/lime) - A flexible, lightweight layer for Haxe cross-platform developers (`Web`, `Mobile`, `Desktop`).      
 * [linc_glfw](https://github.com/Sunjammer/linc_glfw) - Desktop - GLFW binding (multi-platform library for OpenGL, OpenGL ES and Vulkan) _(Desktop)_.
-* [NME](https://github.com/haxenme/nme) - A cross-platform native backend _(Web, Mobile, Desktop)_.
+* [NME](https://github.com/haxenme/nme) - A cross-platform native backend (`Web`, `Mobile`, `Desktop`).
 * [3DSHaxe](https://github.com/Krismowo/3DSHaxe) - Make 3ds homebrew! _(3DS)_.
 
 ## Physics
@@ -57,10 +57,10 @@ FSM == Finite State Machine
 MVC == Model View Controller
 ```
 
-* [awe6](https://github.com/hypersurge/awe6) - **IoC, EC** - The inverted game framework, is a development tool focused on Future Proofing.
-* [ecx](https://github.com/eliasku/ecx) - **ECS** - An Entity Component System framework.
-* [hexMachina](https://github.com/DoclerLabs/hexCore) - **MVC** - A powerful multi-modular MVC framework.
-* [OSIS](https://github.com/Dvergar/OSIS) - **ECS** - Entity Component System architecture with networking support.
+* [awe6](https://github.com/hypersurge/awe6) - `IoC`, `EC` - The inverted game framework, is a development tool focused on Future Proofing.
+* [ecx](https://github.com/eliasku/ecx) - `ECS` - An Entity Component System framework.
+* [hexMachina](https://github.com/DoclerLabs/hexCore) - `MVC` - A powerful multi-modular MVC framework.
+* [OSIS](https://github.com/Dvergar/OSIS) - `ECS` - Entity Component System architecture with networking support.
 
 
 ## Networking
@@ -81,29 +81,29 @@ MVC == Model View Controller
 
 <!--lint disable awesome-list-item-->
 ## Games
-* [Darksburg](https://store.steampowered.com/app/939100/Darksburg/) - Heaps - _Desktop_.
+* [Darksburg](https://store.steampowered.com/app/939100/Darksburg/) - Heaps - `Desktop`.
     * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/darksburg.jpg)
-* [Dead Cells](https://dead-cells.com/) - Heaps - _Desktop, Consoles_.
+* [Dead Cells](https://dead-cells.com/) - Heaps - `Desktop`, `Consoles`.
     * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/dead-cells.jpg)
-* [Defender's Quest](http://www.defendersquest.com/) - HaxeFlixel (OpenFL) - _Desktop, Consoles_.
+* [Defender's Quest](http://www.defendersquest.com/) - HaxeFlixel (OpenFL) - `Desktop`, `Consoles`.
     * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/defenders-quest.jpg)
-|[Defender's Quest 2](https://store.steampowered.com/app/252190/Defenders_Quest_2_Mists_of_Ruin/) - HaxeFlixel (OpenFL) - _Desktop_.
+|[Defender's Quest 2](https://store.steampowered.com/app/252190/Defenders_Quest_2_Mists_of_Ruin/) - HaxeFlixel (OpenFL) - `Desktop`.
     * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/defenders-quest-2.jpg)
-* [Dicey Dungeons](http://diceydungeons.com/) - Haxegon (OpenFL) - _Desktop, Consoles_.
+* [Dicey Dungeons](http://diceydungeons.com/) - Haxegon (OpenFL) - `Desktop`, `Consoles`.
     * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/dicey-dungeons.jpg)
-* [Evoland](http://evoland.shirogames.com/) - Heaps - _Desktop, Mobile_.
+* [Evoland](http://evoland.shirogames.com/) - Heaps - `Desktop`, `Mobile`.
     * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/evoland.jpg)
-* [Northgard](http://northgard.net/) - Heaps - _Desktop_.
+* [Northgard](http://northgard.net/) - Heaps - `Desktop`.
     * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/northgard.jpg)
-* [Papers, Please](http://papersplea.se/) - OpenFL - _Desktop, iOS, PsVita_.
+* [Papers, Please](http://papersplea.se/) - OpenFL - `Desktop`, `iOS`, `PsVita`.
     * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/papers-please.jpg)
-* [Pocket Kingdom](https://store.steampowered.com/app/462620/Pocket_Kingdom/) - HaxePunk (OpenFL)- _Desktop_.
+* [Pocket Kingdom](https://store.steampowered.com/app/462620/Pocket_Kingdom/) - HaxePunk (OpenFL)- `Desktop`.
     * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/pocket-kingdom.jpg)
-* [rymdkapsel](https://rymdkapsel.com/) - OpenFL - _Desktop, Mobile_.
+* [rymdkapsel](https://rymdkapsel.com/) - OpenFL - `Desktop`, `Mobile`.
     * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/rymdkapsel.jpg)
-* [Spellbreak](https://playspellbreak.com/) - unreal.hx -  _PC, PS, Xbox, Switch_.
+* [Spellbreak](https://playspellbreak.com/) - unreal.hx -  `PC`, `PS`, `Xbox`, `Switch`.
     * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/spellbreak.jpg)
-* [The Westport Independent](http://www.doublezeroonezero.com/westport.html) - Luxe - _Desktop, Mobile_.
+* [The Westport Independent](http://www.doublezeroonezero.com/westport.html) - Luxe - `Desktop`, `Mobile`.
     * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/westport-independent.jpg)
 <!--lint enable-->
 
