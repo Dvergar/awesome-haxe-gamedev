@@ -1,17 +1,12 @@
-name: Awesome readme lint
+name: CI
 on:
   pull_request:
-    types: [opened, synchronize]
-    branches:
-      - main
+    branches: [main]
 jobs:
-  build:
-    name: awesome readme lint
+  Awesome_Lint:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: Scrum/awesome-lint-action@v0.1.0
         with:
-          entry: 'README.md'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+      - run: npx awesome-lint
