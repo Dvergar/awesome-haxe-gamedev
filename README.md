@@ -21,7 +21,7 @@ Feel free to update it.
 ## Game engines
 
 Those are Haxe 4 compatible game engines
-* [Armory (Kha)](https://github.com/armory3d/armory) - An open-source THIS IS A TEST 3D game engine with full Blender integration (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [Armory (Kha)](https://github.com/armory3d/armory) - An open-source 3D game engine with full Blender integration (`Web`, `Mobile`, `Desktop`, `Consoles`).
 * [Away3D](https://github.com/openfl/away3d) - An open source, real-time 3D engine for OpenFL (`Web`, `Mobile`, `Desktop`).
 * [ceramic](https://github.com/ceramic-engine/ceramic) - Cross-platform 2D framework (`Web`, `Mobile`, `Desktop`, `Unity`).
 * [HaxeFlixel (OpenFL)](https://github.com/HaxeFlixel/flixel) - Free, cross-platform 2D game engine powered by OpenFL (`Web`, `Mobile`, `Desktop`, `Consoles`).
