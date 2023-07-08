@@ -12,6 +12,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: Scrum/awesome-lint-action@v0.1.0
         with:
-          entry: 'path/to/file'
+          entry: 'README.md'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
