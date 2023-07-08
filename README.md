@@ -8,6 +8,7 @@ Feel free to update it.
 
 ## Contents
 * [Game engines](#game-engines)
+* [Low-level Engine](#low-level-engine)
 * [Physics](#physics)
 * [Architecture](#architecture)
 * [Networking](#networking)
@@ -19,41 +20,31 @@ Feel free to update it.
 
 ## Game engines
 
-Those are Haxe 4 compatible game engines.
+Those are Haxe 4 compatible game engines
+* [Armory (Kha)](https://github.com/armory3d/armory) - An open-source 3D game engine with full Blender integration _(Web, Mobile, Desktop, Consoles)_.
+* [Away3D](https://github.com/openfl/away3d) - An open source, real-time 3D engine for OpenFL _(Web, Mobile, Desktop)_.
+* [ceramic](https://github.com/ceramic-engine/ceramic) - Cross-platform 2D framework _(Web, Mobile, Desktop, Unity)_.
+* [HaxeFlixel (OpenFL)](https://github.com/HaxeFlixel/flixel) - Free, cross-platform 2D game engine powered by OpenFL _(Web, Mobile, Desktop, Consoles)_.
+* [Haxegon (OpenFL)](https://github.com/haxegon/haxegon) - A programming library for beginners. Powered by OpenFL and Starling _(Web, Mobile, Desktop, Consoles)_.
+* [Heaps](https://github.com/HeapsIO/heaps) - High Performance Game Framework _(Web, Mobile, Desktop, Consoles)_.
+* [hxdefold](https://github.com/hxdefold/hxdefold) - Haxe/Lua externs for Defold game engine _(Web, Mobile, Desktop)_.
+* [OpenFL](https://github.com/openfl/openfl) - Interactive game and app development library _(Web, Mobile, Desktop, Consoles)_.
+* [Starling](https://github.com/openfl/starling) - The "Cross-Platform Game Engine", a popular Stage3D framework _(Web, Mobile, Desktop)_.
+* [Stencyl (OpenFL)](https://github.com/Stencyl/stencyl-engine) - Create Flash, HTML5, iOS, Android, and desktop games with no code _(Mobile, Desktop)_.
+* [unreal.hx](https://github.com/proletariatgames/unreal.hx) - Haxe Integration for Unreal _(Web, Mobile, Desktop, Consoles)_.
+* [HxGodot (Godot 4.0)](https://github.com/HxGodot/hxgodot) - A Haxe GDExtension for Godot 4 _(Web, Mobile, Desktop, Consoles)_.
 
-|Engine                                                       |Target                        |                                                         Description|
-|-------------------------------------------------------------|------------------------------|--------------------------------------------------------------------|
-|[Armory (Kha)](https://github.com/armory3d/armory)           |Web, Mobile, Desktop, Consoles|An open-source 3D game engine with full Blender integration.        |
-|[Away3D](https://github.com/openfl/away3d)                   |Web, Mobile, Desktop          |An open source, real-time 3D engine for OpenFL.                     |
-|[ceramic](https://github.com/ceramic-engine/ceramic)         |Web, Mobile, Desktop, Unity   |Cross-platform 2D framework.                                        |
-|[HaxeFlixel (OpenFL)](https://github.com/HaxeFlixel/flixel)  |Web, Mobile, Desktop, Consoles|Free, cross-platform 2D game engine powered by OpenFL.              |
-|[Haxegon (OpenFL)](https://github.com/haxegon/haxegon)       |Web, Mobile, Desktop, Consoles|A programming library for beginners. Powered by OpenFL and Starling.|
-|[Heaps](https://github.com/HeapsIO/heaps)                    |Web, Mobile, Desktop, Consoles|High Performance Game Framework.                                    |
-|[hxdefold](https://github.com/hxdefold/hxdefold)             |Web, Mobile, Desktop          |Haxe/Lua externs for Defold game engine.                            |
-|[OpenFL](https://github.com/openfl/openfl)                   |Web, Mobile, Desktop, Consoles|Interactive game and app development library.                       |
-|[Starling](https://github.com/openfl/starling)               |Web, Mobile, Desktop          |The "Cross-Platform Game Engine", a popular Stage3D framework.      |
-|[Stencyl (OpenFL)](https://github.com/Stencyl/stencyl-engine)|Web, Mobile, Desktop          |Create Flash, HTML5, iOS, Android, and desktop games with no code.  |
-|[unreal.hx](https://github.com/proletariatgames/unreal.hx)   |Web, Mobile, Desktop, Consoles|Haxe Integration for Unreal.                                        |
-|[HxGodot (Godot 4.0)](https://github.com/HxGodot/hxgodot)    |Web, Mobile, Desktop, Consoles|A Haxe GDExtension for Godot 4                                      |
-
-
-|Low-level Engine                                   |Target                       |Description                                                            |
-|---------------------------------------------------|-----------------------------|-----------------------------------------------------------------------|
-|[Kha](https://github.com/Kode/Kha)                 |Web, Mobile, Desktop, Console|Ultra-portable, high performance, open source multimedia framework.    |
-|[Lime](https://github.com/openfl/lime)             |Web, Mobile, Desktop         |A flexible, lightweight layer for Haxe cross-platform developers.      |
-|[linc_glfw](https://github.com/Sunjammer/linc_glfw)|Desktop                      |GLFW binding (multi-platform library for OpenGL, OpenGL ES and Vulkan).|
-|[NME](https://github.com/haxenme/nme)              |Web, Mobile, Desktop         |A cross-platform native backend.                                       |
-|[3DSHaxe](https://github.com/haxenme/nme)          |3DS                          |Make 3ds homebrew!                                                     |
-
-
-
+## Low-level Engine
+* [Kha](https://github.com/Kode/Kha) - Ultra-portable, high performance, open source multimedia framework _(Web, Mobile, Desktop, Consoles)_.    
+* [Lime](https://github.com/openfl/lime) - A flexible, lightweight layer for Haxe cross-platform developers _(Web, Mobile, Desktop)_.      
+* [linc_glfw](https://github.com/Sunjammer/linc_glfw) - Desktop - GLFW binding (multi-platform library for OpenGL, OpenGL ES and Vulkan) _(Desktop)_.
+* [NME](https://github.com/haxenme/nme) - A cross-platform native backend _(Web, Mobile, Desktop)_.
+* [3DSHaxe](https://github.com/Krismowo/3DSHaxe) - Make 3ds homebrew! _(3DS)_.
 
 ## Physics
-|Library                                               |Description                                                                                                |
-|------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
-|[echo](https://github.com/AustinEast/echo/)           |Simple Physics Library.                                                                                    |
-|[haxebullet](https://github.com/armory3d/haxebullet)  |Bullet 3D Physics.                                                                                         |
-|[nape-haxe4](https://github.com/HaxeFlixel/nape-haxe4)|Physics Engine (the original Haxe3 version of nape can be found [here](https://github.com/deltaluca/nape)).|
+* [echo](https://github.com/AustinEast/echo/) - Simple Physics Library.
+* [haxebullet](https://github.com/armory3d/haxebullet) - Bullet 3D Physics.
+* [nape-haxe4](https://github.com/HaxeFlixel/nape-haxe4) - Physics Engine (the original Haxe3 version of nape can be found [here](https://github.com/deltaluca/nape)).
 
 
 
@@ -66,52 +57,56 @@ FSM == Finite State Machine
 MVC == Model View Controller
 ```
 
-|Library                                            |Architecture|                                        Description                           |
-|---------------------------------------------------|------------|------------------------------------------------------------------------------|
-|[awe6](https://github.com/hypersurge/awe6)         |IoC, EC     |The inverted game framework, is a development tool focused on Future Proofing.|
-|[ecx](https://github.com/eliasku/ecx)              |ECS         |An Entity Component System framework.                                         |
-|[hexMachina](https://github.com/DoclerLabs/hexCore)|MVC         |A powerful multi-modular MVC framework.                                       |
-|[OSIS](https://github.com/Dvergar/OSIS)            |ECS         |Entity Component System architecture with networking support.                 |
+* [awe6](https://github.com/hypersurge/awe6) - **IoC, EC** - The inverted game framework, is a development tool focused on Future Proofing.
+* [ecx](https://github.com/eliasku/ecx) - **ECS** - An Entity Component System framework.
+* [hexMachina](https://github.com/DoclerLabs/hexCore) - **MVC** - A powerful multi-modular MVC framework.
+* [OSIS](https://github.com/Dvergar/OSIS) - **ECS** - Entity Component System architecture with networking support.
 
 
 ## Networking
-|Library                                                             |             Description                      |
-|--------------------------------------------------------------------|----------------------------------------------|
-|[Anette](https://github.com/Dvergar/Anette)                         |Simple network library (no UDP).              |
-|[colyseus-hx](https://github.com/colyseus/colyseus-hx)              |Multiplayer Game Client.                      |
-|[haxe-simple-peer (js)](https://github.com/melonin/haxe-simple-peer)|Haxe externs for simple-peer.                 |
-|[hxWebSockets](https://github.com/ianharrigan/hxWebSockets)         |Websockets for all platforms.                 |
-|Built-in                                                            |Heaps, OpenFL (HaxeFlixel & co), Kha (Armory).|
+* [Anette](https://github.com/Dvergar/Anette) - Simple network library (no UDP).
+* [colyseus-hx](https://github.com/colyseus/colyseus-hx) - Multiplayer Game Client.
+* [haxe-simple-peer (js)](https://github.com/melonin/haxe-simple-peer) - Haxe externs for simple-peer.
+* [hxWebSockets](https://github.com/ianharrigan/hxWebSockets) - Websockets for all platforms.
+* Built-in - Heaps, OpenFL (HaxeFlixel & co), Kha (Armory).
 
 
 ## Serialization and storage
-|Library                                          |        Description                                        |
-|-------------------------------------------------|-----------------------------------------------------------|
-|[Bits](https://github.com/RealyUniqueName/Bits)  |Binary bit flags with unlimited amount of bits.            |
-|[CastleDB](https://github.com/ncannasse/castle)  |A structured static database easing collaboration.         |
-|[hxbit](https://github.com/ncannasse/hxbit)      |A binary serialization and network synchronization library.|
-|[PODStream](https://github.com/Dvergar/PODStream)|Plain Old Data serializer.                                 |
+* [Bits](https://github.com/RealyUniqueName/Bits) - Binary bit flags with unlimited amount of bits.
+* [CastleDB](https://github.com/ncannasse/castle) - A structured static database easing collaboration.
+* [hxbit](https://github.com/ncannasse/hxbit) - A binary serialization and network synchronization library.
+* [PODStream](https://github.com/Dvergar/PODStream) - Plain Old Data serializer.
 
 
 
+<!--lint disable awesome-list-item-->
 ## Games
-|Game                                                                        |Platform            |Engine             |Screenshot                                    |
-|----------------------------------------------------------------------------|--------------------|-------------------|----------------------------------------------|
-|**RELEASED**                                                                |                    |                   |                                              |
-|[Darksburg](https://store.steampowered.com/app/939100/Darksburg/)           |Desktop             |Heaps              |![Screenshot](images/darksburg.jpg)           |
-|[Dead Cells](https://dead-cells.com/)                                       |Desktop, Consoles   |Heaps              |![Screenshot](images/dead-cells.jpg)          |
-|[Defender's Quest](http://www.defendersquest.com/)                          |Desktop, Consoles   |HaxeFlixel (OpenFL)|![Screenshot](images/defenders-quest.jpg)     |
-|[Defender's Quest 2](https://store.steampowered.com/app/252190/Defenders_Quest_2_Mists_of_Ruin/)|Desktop|HaxeFlixel (OpenFL)|![Screenshot](images/defenders-quest-2.jpg)     |
-|[Dicey Dungeons](http://diceydungeons.com/)                                 |Desktop, Consoles   |Haxegon (OpenFL)   |![Screenshot](images/dicey-dungeons.jpg)      |
-|[Evoland](http://evoland.shirogames.com/)                                   |Desktop, Mobile     |Heaps              |![Screenshot](images/evoland.jpg)             |
-|[Northgard](http://northgard.net/)                                          |Desktop             |Heaps              |![Screenshot](images/northgard.jpg)           |
-|[Papers, Please](http://papersplea.se/)                                     |Desktop, iOS, PsVita|OpenFL             |![Screenshot](images/papers-please.jpg)       |
-|[Pocket Kingdom](https://store.steampowered.com/app/462620/Pocket_Kingdom/) |Desktop             |HaxePunk (OpenFL)  |![Screenshot](images/pocket-kingdom.jpg)      |
-|[rymdkapsel](https://rymdkapsel.com/)                                       |Desktop, Mobile     |OpenFL             |![Screenshot](images/rymdkapsel.jpg)          |
-|[Spellbreak](https://playspellbreak.com/)                                   |PC, PS, Xbox, Switch|unreal.hx          |![Screenshot](images/spellbreak.jpg)          |
-|[The Westport Independent](http://www.doublezeroonezero.com/westport.html)  |Desktop, Mobile     |Luxe               |![Screenshot](images/westport-independent.jpg)|
-|**IN DEVELOPMENT**                                                          |                    |                   |                                              |
-|[Frontier Story](https://twitter.com/jmw327)                                |Desktop             |Heaps              |![Screenshot](images/frontier-story.jpg)      |
+* [Darksburg](https://store.steampowered.com/app/939100/Darksburg/) - Heaps - _Desktop_.
+    * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/darksburg.jpg)
+* [Dead Cells](https://dead-cells.com/) - Heaps - _Desktop, Consoles_.
+    * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/dead-cells.jpg)
+* [Defender's Quest](http://www.defendersquest.com/) - HaxeFlixel (OpenFL) - _Desktop, Consoles_.
+    * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/defenders-quest.jpg)
+|[Defender's Quest 2](https://store.steampowered.com/app/252190/Defenders_Quest_2_Mists_of_Ruin/) - HaxeFlixel (OpenFL) - _Desktop_.
+    * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/defenders-quest-2.jpg)
+* [Dicey Dungeons](http://diceydungeons.com/) - Haxegon (OpenFL) - _Desktop, Consoles_.
+    * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/dicey-dungeons.jpg)
+* [Evoland](http://evoland.shirogames.com/) - Heaps - _Desktop, Mobile_.
+    * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/evoland.jpg)
+* [Northgard](http://northgard.net/) - Heaps - _Desktop_.
+    * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/northgard.jpg)
+* [Papers, Please](http://papersplea.se/) - OpenFL - _Desktop, iOS, PsVita_.
+    * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/papers-please.jpg)
+* [Pocket Kingdom](https://store.steampowered.com/app/462620/Pocket_Kingdom/) - HaxePunk (OpenFL)- _Desktop_.
+    * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/pocket-kingdom.jpg)
+* [rymdkapsel](https://rymdkapsel.com/) - OpenFL - _Desktop, Mobile_.
+    * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/rymdkapsel.jpg)
+* [Spellbreak](https://playspellbreak.com/) - unreal.hx -  _PC, PS, Xbox, Switch_.
+    * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/spellbreak.jpg)
+* [The Westport Independent](http://www.doublezeroonezero.com/westport.html) - Luxe - _Desktop, Mobile_.
+    * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/westport-independent.jpg)
+<!--lint enable-->
+
 
 More showcase :
 * [OpenFL showcase](https://www.openfl.org/showcase)
@@ -122,54 +117,98 @@ More showcase :
 * [Kha showcase](https://github.com/Kode/Kha/wiki/Games-Built-With-Kha)
 
 ## Miscellaneous
-|Type                 |Library                                                                    | Description                                                                                                                                                                     |
-|---------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|3rd party API        |[SteamWrap](https://github.com/larsiusprime/SteamWrap)                     |Native extension for the SteamAPI.|
-|_                    |[newgrounds](https://lib.haxe.org/p/newgrounds)                            |Newgrounds API.|
-|_                    |[hxgamejolt-api](https://github.com/MAJigsaw77/hxgamejolt-api)             |Haxe bindings for GameJolt API.|
-|AI                   |[goap](https://gitlab.com/haath/goap)                           |Goal-oriented action planner for AI.|
-|Animation            |[spine-hx](https://github.com/jeremyfa/spine-hx)                           |Spine runtime automatically converted from the official Java/libgdx runtime.|
-|_                    |HaxeFlixel                                                                 |Spine parser.|
-|_                    |[Heaps-Spine](https://github.com/Beeblerox/Heaps-Spine)                    |Spine player for heaps.|
-|_                    |[heaps-aseprite](https://github.com/AustinEast/heaps-aseprite)             |Load and render sprites and animations in Aseprite format.|
-|_                    |[openfl-aseprite](https://github.com/miriti/openfl-aseprite)               |Load and render sprites and animations in Aseprite format.|
-|_                    |[openfl-spine](https://github.com/rainyt/openfl-spine)                     |Render Spine animation in the OpenFL engine, rendering processing can be achieved through Sprite and Tilemap.|
-|_                    |[ase](https://github.com/miriti/ase)                                       |.ase/.aseprite file format loader without external dependencies.|
-|_                    |[flxgif](https://github.com/MAJigsaw77/flxgif)                             |Yagp's Gif Player for HaxeFlixel.|
-|Audio                |[sfxr-hx](https://github.com/jobf/sfxr-hx)                                 |Pure haxe implementation of Sfxr.|
-|Color manipulation   |[nxColor](https://github.com/oscarcs/nxColor)                              |Color manipulation library.|
-|Collision            |[differ](https://github.com/snowkit/differ)                                |A separation axis theorem collision library.|
-|Computer Vision      |[Vision](https://github.com/ShaharMS/Vision)                               |Cross platform computer vision library.|
-|Data structures      |[polygonal-ds](https://github.com/polygonal/ds)                            |Data structures for games.|
-|Editor               |[flixel-studio](https://github.com/Dovyski/flixel-studio)                  |In-game editor for HaxeFlixel.|
-|Helpers              |[deepnightLibs](https://github.com/deepnight/deepnightLibs)                |General gamedev purpose libs.|
-|Procedural generation|[Dungeon builder](https://github.com/julsam/dungeon-builder)               |A set of dungeon generation algorithm (works w/ hx4 w/ minor changes).|
-|Localization         |[firetongue](https://github.com/larsiusprime/firetongue)                   |A translation/localization framework.|
-|Map parser           |[PyxelEdit Map Importer](https://github.com/Dvergar/PyxelEdit-Map-Importer)|Parser for maps generated by the editor PyxelEdit.|
-|_                    |Heaps                                                                      |Built-in parser for Tiled.|
-|_                    |HaxeFlixel                                                                 |Parser for Tiled & Ogmo.|
-|_                    |[LEd](https://github.com/deepnight/led-haxe-api)                           |2D level editor with a typed compile time loader.|
-|_                    |[TiledHX](https://github.com/yanrishatum/tiledhx)                          |A comprehensive modern Tiled parser.|
-|Math helpers         |[hxmath](https://github.com/tbrosman/hxmath)                               |A game-oriented math library.|
-|_                    |[haxe-glm](https://github.com/hamaluik/haxe-glm)                           |A toolset for using 2, 3, and 4 dimensional vectors and matrices, as well as quaternions.|
-|_                    |[hx-vector2d](https://github.com/markknol/hx-vector2d)                     |Worlds most complete Vector2d / Point class. With operator overloading.|
-|Modding              |[polymod](https://github.com/larsiusprime/polymod)                         |An atomic modding framework for games/apps.|
-|Particles            |[Sparkler](https://github.com/RudenkoArts/sparkler)                        |Modular Particle System.|
-|Monetization         |[extension-iap](https://github.com/charmdev/extension-iap)                 |Provides an access to in-app purchases (iOS) and in-app billing (Android) for OpenFL projects using a common API. Fork of [this](https://github.com/HaxeExtension/extension-iap).|
-|Pathfinding          |[pathfinder](https://github.com/hypersurge/pathfinder)                     |Easy A* pathfinding algorithm.|
-|_                    |[astar](https://gitlab.com/haath/astar)                                    |Versatile framework-agnostic A-star solver Library.|
-|Shaders              |[HGSL](https://github.com/saharan/HGSL)                                    |Haxe to GL Shading Language.|
-|_                    |[parasol](https://github.com/47rooks/parasol)                              |HaxeFlixel library of shaders.|
-|Sprite               |[haxe-aseprite](https://github.com/PongoEngine/haxe-aseprite)              |Parser for .ase and .aseprite files.|
-|Texture Packer       |[hxpk](https://github.com/bendmorris/hxpk)                                 |Port of the libGDX Texture Packer.|
-|Tweening             |[actuate](https://github.com/jgranick/actuate)                             |A flexible, fast "tween" library.|
-|_                    |[YATL](https://github.com/Yanrishatum/yatl)                                |Yet Another (Haxe) Tweening Library.|
-|_                    |[TweenX/TweenXCore](https://github.com/shohei909/tweenx)                   |Tween library.|
-|UI                   |[domkit](https://github.com/ncannasse/domkit)                              |CSS Components based strictly typed UI framework.|
-|_                    |[flixel-ui](https://github.com/HaxeFlixel/flixel-ui)                       |GUI library for HaxeFlixel.|
-|_                    |[HaxeUI](http://haxeui.org/)                                               |UI library with multiple framework backends (HTML5, Kha, OpenFL, PixiJS, WxWidgets, and a number of others as works in progress)|
-|_                    |[Feathers UI](https://feathersui.com/)                                          |Cross-platform graphical user interface components for creative frontend projects|
-| Video               |[hxCodec](https://github.com/polybiusproxy/hxCodec)                        |Adds native video playback on HaxeFlixel and OpenFL|
+
+### 3rd party API
+* [SteamWrap](https://github.com/larsiusprime/SteamWrap) - Native extension for the SteamAPI.
+* [newgrounds](https://lib.haxe.org/p/newgrounds) - Newgrounds API.
+* [hxgamejolt-api](https://github.com/MAJigsaw77/hxgamejolt-api) - Haxe bindings for GameJolt API.
+
+### AI
+[goap](https://gitlab.com/haath/goap) - Goal-oriented action planner for AI.
+
+### Animation
+* [spine-hx](https://github.com/jeremyfa/spine-hx) - Spine runtime automatically converted from the official Java/libgdx runtime.
+* HaxeFlixel - Spine parser.
+* [Heaps-Spine](https://github.com/Beeblerox/Heaps-Spine) - Spine player for heaps.
+* [heaps-aseprite](https://github.com/AustinEast/heaps-aseprite) - Load and render sprites and animations in Aseprite format.
+* [openfl-aseprite](https://github.com/miriti/openfl-aseprite) - Load and render sprites and animations in Aseprite format.
+* [openfl-spine](https://github.com/rainyt/openfl-spine) - Render Spine animation in the OpenFL engine, rendering processing can be achieved throughSprite and Tilemap.
+* [ase](https://github.com/miriti/ase) - File format reader/writer for .ase/.aseprite without external dependencies.
+* [flxgif](https://github.com/MAJigsaw77/flxgif) - Yagp's Gif Player for HaxeFlixel.
+
+### Audio
+* [sfxr-hx](https://github.com/jobf/sfxr-hx) - Pure haxe implementation of Sfxr.
+
+### Color manipulation
+* [nxColor](https://github.com/oscarcs/nxColor) - Color manipulation library.
+
+### Collision
+* [differ](https://github.com/snowkit/differ) - A separation axis theorem collision library.
+
+### Computer Vision
+* [Vision](https://github.com/ShaharMS/Vision) - Cross platform computer vision library.
+
+### Data structures
+* [polygonal-ds](https://github.com/polygonal/ds) - Data structures for games.
+
+### Editor
+* [flixel-studio](https://github.com/Dovyski/flixel-studio) - In-game editor for HaxeFlixel.
+
+### Helpers
+* [deepnightLibs](https://github.com/deepnight/deepnightLibs) - General gamedev purpose libs.
+|Procedural generation|[Dungeon builder](https://github.com/julsam/dungeon-builder) - A set of dungeon generation algorithm (works w/ hx4 w/ minor changes).
+
+### Localization
+* [firetongue](https://github.com/larsiusprime/firetongue) - A translation/localization framework.
+
+### Map parser
+* [PyxelEdit Map Importer](https://github.com/Dvergar/PyxelEdit-Map-Importer) - Parser for maps generated by the editor PyxelEdit.
+* Heaps - Built-in parser for Tiled.
+* HaxeFlixel - Parser for Tiled & Ogmo.
+* [LEd](https://github.com/deepnight/led-haxe-api) - 2D level editor with a typed compile time loader.
+* [TiledHX](https://github.com/yanrishatum/tiledhx) - A comprehensive modern Tiled parser.
+
+### Math helpers
+* [hxmath](https://github.com/tbrosman/hxmath) - A game-oriented math library.
+* [haxe-glm](https://github.com/hamaluik/haxe-glm) - A toolset for using 2, 3, and 4 dimensional vectors and matrices, as well as quaternions.
+* [hx-vector2d](https://github.com/markknol/hx-vector2d) - Worlds most complete Vector2d / Point class. With operator overloading.
+
+### Modding
+* [polymod](https://github.com/larsiusprime/polymod) - An atomic modding framework for games/apps.
+
+### Particles
+* [Sparkler](https://github.com/RudenkoArts/sparkler) - Modular Particle System.
+
+### Monetization
+* [extension-iap](https://github.com/charmdev/extension-iap) - Provides an access to in-app purchases (iOS) and in-app billing (Android) for OpenFL projects using a common API. Fork of [this](https://github.com/HaxeExtension/extension-iap).
+
+### Pathfinding
+* [pathfinder](https://github.com/hypersurge/pathfinder) - Easy A* pathfinding algorithm.
+* [astar](https://gitlab.com/haath/astar) - Versatile framework-agnostic A-star solver Library.
+
+### Shaders
+* [HGSL](https://github.com/saharan/HGSL) - Haxe to GL Shading Language.
+* [parasol](https://github.com/47rooks/parasol) - HaxeFlixel library of shaders.
+
+### Sprite 
+* [haxe-aseprite](https://github.com/PongoEngine/haxe-aseprite) - Parser for .ase and .aseprite files.
+
+### Texture Packer 
+* [hxpk](https://github.com/bendmorris/hxpk) - Port of the libGDX Texture Packer.
+
+### Tweening 
+* [actuate](https://github.com/jgranick/actuate) - A flexible, fast "tween" library.
+* [YATL](https://github.com/Yanrishatum/yatl) - Yet Another (Haxe) Tweening Library.
+* [TweenX/TweenXCore](https://github.com/shohei909/tweenx) - Tween library.
+
+### UI 
+* [domkit](https://github.com/ncannasse/domkit) - CSS Components based strictly typed UI framework.
+* [flixel-ui](https://github.com/HaxeFlixel/flixel-ui) - GUI library for HaxeFlixel.
+* [HaxeUI](http://haxeui.org/) - UI library with multiple framework backends (HTML5, Kha, OpenFL, PixiJS, WxWidgets, and a number of others as works in progress).
+* [Feathers UI](https://feathersui.com/) - Cross-platform graphical user interface components for creative frontend projects.
+
+### Video
+* [hxCodec](https://github.com/polybiusproxy/hxCodec) - Adds native video playback on HaxeFlixel and OpenFL.
 
 ## Articles
 * [Flash is dead, long live OpenFL!](http://gamasutra.com/blogs/LarsDoucet/20140318/213407/Flash_is_dead_long_live_OpenFL.php)
