@@ -87,7 +87,7 @@ MVC == Model View Controller
     * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/dead-cells.jpg)
 * [Defender's Quest](http://www.defendersquest.com/) - HaxeFlixel (OpenFL) - `Desktop`, `Consoles`.
     * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/defenders-quest.jpg)
-|[Defender's Quest 2](https://store.steampowered.com/app/252190/Defenders_Quest_2_Mists_of_Ruin/) - HaxeFlixel (OpenFL) - `Desktop`.
+* [Defender's Quest 2](https://store.steampowered.com/app/252190/Defenders_Quest_2_Mists_of_Ruin/) - HaxeFlixel (OpenFL) - `Desktop`.
     * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/defenders-quest-2.jpg)
 * [Dicey Dungeons](http://diceydungeons.com/) - Haxegon (OpenFL) - `Desktop`, `Consoles`.
     * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/dicey-dungeons.jpg)
