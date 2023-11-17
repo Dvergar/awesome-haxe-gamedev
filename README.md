@@ -156,7 +156,9 @@ More showcase :
 
 ### Helpers
 * [deepnightLibs](https://github.com/deepnight/deepnightLibs) - General gamedev purpose libs.
-|Procedural generation|[Dungeon builder](https://github.com/julsam/dungeon-builder) - A set of dungeon generation algorithm (works w/ hx4 w/ minor changes).
+
+### Procedural generation
+* [Dungeon builder](https://github.com/julsam/dungeon-builder) - A set of dungeon generation algorithm (works w/ hx4 w/ minor changes).
 
 ### Localization
 * [firetongue](https://github.com/larsiusprime/firetongue) - A translation/localization framework.
